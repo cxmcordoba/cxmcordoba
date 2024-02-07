@@ -54,6 +54,7 @@ p {
 }
 
 
+
 a,
 a:hover,
 a:focus {
@@ -329,6 +330,19 @@ img {
 /* :: 3.6.0 Miscellaneous */
 .text-white{
     color: $white-color !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-font-100{
+	font-weight: 100 !important;
+	
+}
+
+.text-font-15{
+	font-size: 10px !important;
 }
 
 .bg-img {
@@ -2025,5 +2039,8 @@ img {
         box-shadow: 0 2px 50px 0 rgba(0, 0, 0, 0.15);
     }
 }
+
+
+
 
 /* ====== The End ====== */
