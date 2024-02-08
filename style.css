@@ -15,6 +15,17 @@
   margin: 0;
   padding: 0; }
 
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.img-fadmes {
+	max-height: 190px;
+width: auto;}
+
 body {
   font-family: "Archivo Narrow", sans-serif;
   font-size: 14px; }
@@ -1235,10 +1246,10 @@ img {
   position: relative;
   z-index: 10;
   width: 100%;
-  height: 385px; }
+  height: 500px; }
   @media only screen and (max-width: 767px) {
     .breadcumb-area {
-      height: 270px; } }
+      height: 375px; } }
   .breadcumb-area .bradcumbContent {
     position: absolute;
     background-color: #fff;
