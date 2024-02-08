@@ -15,6 +15,11 @@
   margin: 0;
   padding: 0; }
 
+.event-text-custom{
+    padding: 1px 10px !important;
+    text-align: left !important;
+}
+
 .img-center {
   display: block;
   margin-left: auto;
