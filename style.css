@@ -20,6 +20,7 @@
     text-align: left !important;
 }
 
+
 .img-center {
   display: block;
   margin-left: auto;
@@ -532,6 +533,7 @@ img {
 /* :: 5.0 Hero Slides Area */
 .hero-area,
 .hero-slides {
+    background-color: black;
   position: relative;
   z-index: 1; }
 
