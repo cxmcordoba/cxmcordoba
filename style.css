@@ -20,6 +20,9 @@
     text-align: left !important;
 }
 
+.green-light-bg-color-custom {
+    background-color: #a9c711 !important;
+}
 
 .img-center {
   display: block;
