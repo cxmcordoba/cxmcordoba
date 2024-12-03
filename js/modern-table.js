@@ -195,8 +195,8 @@ class ModernTable {
 
         tableSearchBox.className = this.searchClasses;
         tableSearchBox.setAttribute('type', 'search');
-        tableSearchBox.setAttribute('placeholder', 'Search table');
-        tableSearchBox.setAttribute('aria-label', 'Search');
+        tableSearchBox.setAttribute('placeholder', 'Buscar...');
+        tableSearchBox.setAttribute('aria-label', 'Buscar...');
         tableSearchBox.setAttribute('size', '50');
 
         elementTable.insertAdjacentElement('beforebegin', tableSearchBox);
