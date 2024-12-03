@@ -1,5 +1,6 @@
 [
     {
+        "Categoria": "Junior Masculino",
         "Puesto": "1",
         "Puntos Copa": "606",
         "Nombre": "Antonio",
@@ -34,6 +35,7 @@
         "Puntos CxM Sierras de Espiel": "106"
     },
     {
+        "Categoria": "Senior Femenina",
         "Puesto": "1",
         "Puntos Copa": "530",
         "Nombre": "Pilar",
@@ -68,6 +70,7 @@
         "Puntos CxM Sierras de Espiel": "86"
     },
     {
+        "Categoria": "Senior Femenina",
         "Puesto": "2",
         "Puntos Copa": "486",
         "Nombre": "Sara María ",
@@ -102,6 +105,7 @@
         "Puntos CxM Sierras de Espiel": "120"
     },
     {
+        "Categoria": "Senior Masculino",
         "Puesto": "1",
         "Puntos Copa": "528",
         "Nombre": "Francisco José",
@@ -136,6 +140,7 @@
         "Puntos CxM Sierras de Espiel": "86"
     },
     {
+        "Categoria": "Senior Masculino",
         "Puesto": "2",
         "Puntos Copa": "447",
         "Nombre": "Antonio Jesús ",
@@ -170,6 +175,7 @@
         "Puntos CxM Sierras de Espiel": "79"
     },
     {
+        "Categoria": "Senior Masculino",
         "Puesto": "3",
         "Puntos Copa": "440",
         "Nombre": "Lucas",
@@ -204,6 +210,7 @@
         "Puntos CxM Sierras de Espiel": "94"
     },
     {
+        "Categoria": "Senior Masculino",
         "Puesto": "4",
         "Puntos Copa": "439",
         "Nombre": "Roberto",
@@ -238,6 +245,7 @@
         "Puntos CxM Sierras de Espiel": "77"
     },
     {
+        "Categoria": "Senior Masculino",
         "Puesto": "5",
         "Puntos Copa": "398",
         "Nombre": "Francisco",
@@ -272,6 +280,7 @@
         "Puntos CxM Sierras de Espiel": "82"
     },
     {
+        "Categoria": "Senior Masculino",
         "Puesto": "6",
         "Puntos Copa": "396",
         "Nombre": "Jorge",
@@ -306,6 +315,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Senior Masculino",
         "Puesto": "7",
         "Puntos Copa": "310",
         "Nombre": "Sergio",
@@ -340,6 +350,7 @@
         "Puntos CxM Sierras de Espiel": "70"
     },
     {
+        "Categoria": "Senior Masculino",
         "Puesto": "8",
         "Puntos Copa": "286",
         "Nombre": "José Javier",
@@ -374,6 +385,7 @@
         "Puntos CxM Sierras de Espiel": "62"
     },
     {
+        "Categoria": "Veterana A Femenina",
         "Puesto": "1",
         "Puntos Copa": "620",
         "Nombre": "Pilar",
@@ -408,6 +420,7 @@
         "Puntos CxM Sierras de Espiel": "120"
     },
     {
+        "Categoria": "Veterana A Femenina",
         "Puesto": "2",
         "Puntos Copa": "558",
         "Nombre": "Susana",
@@ -442,6 +455,7 @@
         "Puntos CxM Sierras de Espiel": "106"
     },
     {
+        "Categoria": "Veterana A Femenina",
         "Puesto": "3",
         "Puntos Copa": "506",
         "Nombre": "Ana Belén ",
@@ -476,6 +490,7 @@
         "Puntos CxM Sierras de Espiel": "94"
     },
     {
+        "Categoria": "Veterana A Femenina",
         "Puesto": "4",
         "Puntos Copa": "458",
         "Nombre": "Beatriz",
@@ -510,6 +525,7 @@
         "Puntos CxM Sierras de Espiel": "86"
     },
     {
+        "Categoria": "Veterana A Femenina",
         "Puesto": "5",
         "Puntos Copa": "442",
         "Nombre": "María Rosario",
@@ -544,6 +560,7 @@
         "Puntos CxM Sierras de Espiel": "82"
     },
     {
+        "Categoria": "Veterana A Femenina",
         "Puesto": "6",
         "Puntos Copa": "421",
         "Nombre": "Eva María ",
@@ -578,6 +595,7 @@
         "Puntos CxM Sierras de Espiel": "79"
     },
     {
+        "Categoria": "Veterana A Femenina",
         "Puesto": "7",
         "Puntos Copa": "388",
         "Nombre": "Soco",
@@ -612,6 +630,7 @@
         "Puntos CxM Sierras de Espiel": "72"
     },
     {
+        "Categoria": "Veterana A Femenina",
         "Puesto": "8",
         "Puntos Copa": "380",
         "Nombre": "Nuria ",
@@ -646,6 +665,7 @@
         "Puntos CxM Sierras de Espiel": "74"
     },
     {
+        "Categoria": "Veterana A Femenina",
         "Puesto": "9",
         "Puntos Copa": "375",
         "Nombre": "Ana María",
@@ -680,6 +700,7 @@
         "Puntos CxM Sierras de Espiel": "77"
     },
     {
+        "Categoria": "Veterana A Femenina",
         "Puesto": "10",
         "Puntos Copa": "361",
         "Nombre": "Migueli",
@@ -714,6 +735,7 @@
         "Puntos CxM Sierras de Espiel": "67"
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "1",
         "Puntos Copa": "620",
         "Nombre": "Antonio",
@@ -748,6 +770,7 @@
         "Puntos CxM Sierras de Espiel": "120"
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "2",
         "Puntos Copa": "536",
         "Nombre": "Juan Diego",
@@ -782,6 +805,7 @@
         "Puntos CxM Sierras de Espiel": "106"
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "3",
         "Puntos Copa": "458",
         "Nombre": "José Antonio",
@@ -816,6 +840,7 @@
         "Puntos CxM Sierras de Espiel": "94"
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "4",
         "Puntos Copa": "440",
         "Nombre": "David",
@@ -850,6 +875,7 @@
         "Puntos CxM Sierras de Espiel": "82"
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "5",
         "Puntos Copa": "384",
         "Nombre": "Mario",
@@ -884,6 +910,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "6",
         "Puntos Copa": "382",
         "Nombre": "Antonio David",
@@ -918,6 +945,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "7",
         "Puntos Copa": "376",
         "Nombre": "Francisco Javier",
@@ -952,6 +980,7 @@
         "Puntos CxM Sierras de Espiel": "72"
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "8",
         "Puntos Copa": "367",
         "Nombre": "Rafael",
@@ -986,6 +1015,7 @@
         "Puntos CxM Sierras de Espiel": "79"
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "9",
         "Puntos Copa": "326",
         "Nombre": "Juan Manuel",
@@ -1020,6 +1050,7 @@
         "Puntos CxM Sierras de Espiel": "74"
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "10",
         "Puntos Copa": "272",
         "Nombre": "Antonio Javier ",
@@ -1054,6 +1085,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "11",
         "Puntos Copa": "248",
         "Nombre": "José Ramon ",
@@ -1088,6 +1120,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "12",
         "Puntos Copa": "240",
         "Nombre": "Tomas",
@@ -1122,6 +1155,7 @@
         "Puntos CxM Sierras de Espiel": "62"
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "13",
         "Puntos Copa": "226",
         "Nombre": "Ángel ",
@@ -1156,6 +1190,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterano A Masculino",
         "Puesto": "14",
         "Puntos Copa": "218",
         "Nombre": "José Luis ",
@@ -1190,6 +1225,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterana B Femenina",
         "Puesto": "1",
         "Puntos Copa": "574",
         "Nombre": "Clemencia",
@@ -1224,6 +1260,7 @@
         "Puntos CxM Sierras de Espiel": "120"
     },
     {
+        "Categoria": "Veterana B Femenina",
         "Puesto": "2",
         "Puntos Copa": "436",
         "Nombre": "María Luz",
@@ -1258,6 +1295,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterana B Femenina",
         "Puesto": "3",
         "Puntos Copa": "390",
         "Nombre": "Gloria ",
@@ -1292,6 +1330,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterano B Masculino",
         "Puesto": "1",
         "Puntos Copa": "620",
         "Nombre": "Antonio Jesús ",
@@ -1326,6 +1365,7 @@
         "Puntos CxM Sierras de Espiel": "120"
     },
     {
+        "Categoria": "Veterano B Masculino",
         "Puesto": "2",
         "Puntos Copa": "558",
         "Nombre": "Juan Carlos ",
@@ -1360,6 +1400,7 @@
         "Puntos CxM Sierras de Espiel": "94"
     },
     {
+        "Categoria": "Veterano B Masculino",
         "Puesto": "3",
         "Puntos Copa": "479",
         "Nombre": "David",
@@ -1394,6 +1435,7 @@
         "Puntos CxM Sierras de Espiel": "79"
     },
     {
+        "Categoria": "Veterano B Masculino",
         "Puesto": "4",
         "Puntos Copa": "468",
         "Nombre": "José ",
@@ -1428,6 +1470,7 @@
         "Puntos CxM Sierras de Espiel": "86"
     },
     {
+        "Categoria": "Veterano B Masculino",
         "Puesto": "5",
         "Puntos Copa": "420",
         "Nombre": "Juan Antonio",
@@ -1462,6 +1505,7 @@
         "Puntos CxM Sierras de Espiel": "82"
     },
     {
+        "Categoria": "Veterano B Masculino",
         "Puesto": "6",
         "Puntos Copa": "403",
         "Nombre": "Rafael ",
@@ -1496,6 +1540,7 @@
         "Puntos CxM Sierras de Espiel": "77"
     },
     {
+        "Categoria": "Veterano B Masculino",
         "Puesto": "7",
         "Puntos Copa": "329",
         "Nombre": "Alberto ",
@@ -1530,6 +1575,7 @@
         "Puntos CxM Sierras de Espiel": "65"
     },
     {
+        "Categoria": "Veterano B Masculino",
         "Puesto": "8",
         "Puntos Copa": "306",
         "Nombre": "Antonio Manuel ",
@@ -1564,6 +1610,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterano B Masculino",
         "Puesto": "9",
         "Puntos Copa": "278",
         "Nombre": "Antonio José ",
@@ -1598,6 +1645,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterano B Masculino",
         "Puesto": "10",
         "Puntos Copa": "268",
         "Nombre": "Domi",
@@ -1632,6 +1680,7 @@
         "Puntos CxM Sierras de Espiel": "58"
     },
     {
+        "Categoria": "Veterano C Masculino",
         "Puesto": "1",
         "Puntos Copa": "598",
         "Nombre": "Juan José",
@@ -1666,6 +1715,7 @@
         "Puntos CxM Sierras de Espiel": "120"
     },
     {
+        "Categoria": "Veterano C Masculino",
         "Puesto": "2",
         "Puntos Copa": "546",
         "Nombre": "Pedro",
@@ -1700,6 +1750,7 @@
         "Puntos CxM Sierras de Espiel": "106"
     },
     {
+        "Categoria": "Veterano C Masculino",
         "Puesto": "3",
         "Puntos Copa": "456",
         "Nombre": "José Antonio",
@@ -1734,6 +1785,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Veterano C Masculino",
         "Puesto": "4",
         "Puntos Copa": "430",
         "Nombre": "Juan",
@@ -1768,6 +1820,7 @@
         "Puntos CxM Sierras de Espiel": "82"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "1",
         "Puntos Copa": "620",
         "Nombre": "Pilar",
@@ -1802,6 +1855,7 @@
         "Puntos CxM Sierras de Espiel": "120"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "2",
         "Puntos Copa": "558",
         "Nombre": "Susana",
@@ -1836,6 +1890,7 @@
         "Puntos CxM Sierras de Espiel": "106"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "3",
         "Puntos Copa": "470",
         "Nombre": "Ana Belén ",
@@ -1870,6 +1925,7 @@
         "Puntos CxM Sierras de Espiel": "86"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "4",
         "Puntos Copa": "454",
         "Nombre": "Beatriz",
@@ -1904,6 +1960,7 @@
         "Puntos CxM Sierras de Espiel": "82"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "5",
         "Puntos Copa": "416",
         "Nombre": "María Rosario",
@@ -1938,6 +1995,7 @@
         "Puntos CxM Sierras de Espiel": "72"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "6",
         "Puntos Copa": "388",
         "Nombre": "Eva María ",
@@ -1972,6 +2030,7 @@
         "Puntos CxM Sierras de Espiel": "70"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "7",
         "Puntos Copa": "382",
         "Nombre": "Sara María ",
@@ -2006,6 +2065,7 @@
         "Puntos CxM Sierras de Espiel": "94"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "8",
         "Puntos Copa": "376",
         "Nombre": "Pilar",
@@ -2040,6 +2100,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "9",
         "Puntos Copa": "353",
         "Nombre": "Clemencia",
@@ -2074,6 +2135,7 @@
         "Puntos CxM Sierras de Espiel": "65"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "10",
         "Puntos Copa": "329",
         "Nombre": "Soco",
@@ -2108,6 +2170,7 @@
         "Puntos CxM Sierras de Espiel": "55"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "11",
         "Puntos Copa": "312",
         "Nombre": "Nuria ",
@@ -2142,6 +2205,7 @@
         "Puntos CxM Sierras de Espiel": "58"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "12",
         "Puntos Copa": "304",
         "Nombre": "Ana María",
@@ -2176,6 +2240,7 @@
         "Puntos CxM Sierras de Espiel": "60"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "13",
         "Puntos Copa": "294",
         "Nombre": "Migueli",
@@ -2210,6 +2275,7 @@
         "Puntos CxM Sierras de Espiel": "48"
     },
     {
+        "Categoria": "Absoluta Femenina",
         "Puesto": "14",
         "Puntos Copa": "266",
         "Nombre": "María Luz",
@@ -2244,6 +2310,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "1",
         "Puntos Copa": "570",
         "Nombre": "Antonio",
@@ -2278,6 +2345,7 @@
         "Puntos CxM Sierras de Espiel": "94"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "2",
         "Puntos Copa": "457",
         "Nombre": "Francisco José",
@@ -2312,6 +2380,7 @@
         "Puntos CxM Sierras de Espiel": "79"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "3",
         "Puntos Copa": "442",
         "Nombre": "Juan Diego",
@@ -2346,6 +2415,7 @@
         "Puntos CxM Sierras de Espiel": "86"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "4",
         "Puntos Copa": "399",
         "Nombre": "Roberto",
@@ -2380,6 +2450,7 @@
         "Puntos CxM Sierras de Espiel": "67"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "5",
         "Puntos Copa": "394",
         "Nombre": "Antonio Jesús",
@@ -2414,6 +2485,7 @@
         "Puntos CxM Sierras de Espiel": "72"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "6",
         "Puntos Copa": "394",
         "Nombre": "Lucas",
@@ -2448,6 +2520,7 @@
         "Puntos CxM Sierras de Espiel": "82"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "7",
         "Puntos Copa": "392",
         "Nombre": "Antonio Jesús ",
@@ -2482,6 +2555,7 @@
         "Puntos CxM Sierras de Espiel": "70"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "8",
         "Puntos Copa": "377",
         "Nombre": "José Antonio",
@@ -2516,6 +2590,7 @@
         "Puntos CxM Sierras de Espiel": "77"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "9",
         "Puntos Copa": "346",
         "Nombre": "Jorge",
@@ -2550,6 +2625,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "10",
         "Puntos Copa": "342",
         "Nombre": "David",
@@ -2584,6 +2660,7 @@
         "Puntos CxM Sierras de Espiel": "60"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "11",
         "Puntos Copa": "319",
         "Nombre": "Juan Carlos ",
@@ -2618,6 +2695,7 @@
         "Puntos CxM Sierras de Espiel": "53"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "12",
         "Puntos Copa": "316",
         "Nombre": "Francisco",
@@ -2652,6 +2730,7 @@
         "Puntos CxM Sierras de Espiel": "74"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "13",
         "Puntos Copa": "309",
         "Nombre": "Mario",
@@ -2686,6 +2765,7 @@
         "Puntos CxM Sierras de Espiel": "55"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "14",
         "Puntos Copa": "282",
         "Nombre": "Rafael",
@@ -2720,6 +2800,7 @@
         "Puntos CxM Sierras de Espiel": "58"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "15",
         "Puntos Copa": "266",
         "Nombre": "Antonio David",
@@ -2754,6 +2835,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "16",
         "Puntos Copa": "233",
         "Nombre": "David",
@@ -2788,6 +2870,7 @@
         "Puntos CxM Sierras de Espiel": "43"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "17",
         "Puntos Copa": "230",
         "Nombre": "José ",
@@ -2822,6 +2905,7 @@
         "Puntos CxM Sierras de Espiel": "48"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "18",
         "Puntos Copa": "212",
         "Nombre": "Francisco Javier",
@@ -2856,6 +2940,7 @@
         "Puntos CxM Sierras de Espiel": "36"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "19",
         "Puntos Copa": "192",
         "Nombre": "Sergio",
@@ -2890,6 +2975,7 @@
         "Puntos CxM Sierras de Espiel": "34"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "20",
         "Puntos Copa": "150",
         "Nombre": "Juan Manuel",
@@ -2924,6 +3010,7 @@
         "Puntos CxM Sierras de Espiel": "41"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "21",
         "Puntos Copa": "140",
         "Nombre": "Juan Antonio",
@@ -2958,6 +3045,7 @@
         "Puntos CxM Sierras de Espiel": "46"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "22",
         "Puntos Copa": "126",
         "Nombre": "Antonio Javier ",
@@ -2992,6 +3080,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "23",
         "Puntos Copa": "120",
         "Nombre": "Rafael ",
@@ -3026,6 +3115,7 @@
         "Puntos CxM Sierras de Espiel": "24"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "24",
         "Puntos Copa": "111",
         "Nombre": "Pedro",
@@ -3060,6 +3150,7 @@
         "Puntos CxM Sierras de Espiel": "19"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "25",
         "Puntos Copa": "70",
         "Nombre": "Juan José",
@@ -3094,6 +3185,7 @@
         "Puntos CxM Sierras de Espiel": "22"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "26",
         "Puntos Copa": "40",
         "Nombre": "José Antonio",
@@ -3128,6 +3220,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "27",
         "Puntos Copa": "29",
         "Nombre": "Antonio José ",
@@ -3162,6 +3255,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "28",
         "Puntos Copa": "29",
         "Nombre": "José Javier",
@@ -3196,6 +3290,7 @@
         "Puntos CxM Sierras de Espiel": "17"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "29",
         "Puntos Copa": "27",
         "Nombre": "José Ramon ",
@@ -3230,6 +3325,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "30",
         "Puntos Copa": "25",
         "Nombre": "Domi",
@@ -3264,6 +3360,7 @@
         "Puntos CxM Sierras de Espiel": "2"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "31",
         "Puntos Copa": "22",
         "Nombre": "Juan",
@@ -3298,6 +3395,7 @@
         "Puntos CxM Sierras de Espiel": "2"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "32",
         "Puntos Copa": "22",
         "Nombre": "Alberto ",
@@ -3332,6 +3430,7 @@
         "Puntos CxM Sierras de Espiel": "2"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "33",
         "Puntos Copa": "22",
         "Nombre": "Tomas",
@@ -3366,6 +3465,7 @@
         "Puntos CxM Sierras de Espiel": "2"
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "34",
         "Puntos Copa": "11",
         "Nombre": "Ángel ",
@@ -3400,6 +3500,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "35",
         "Puntos Copa": "10",
         "Nombre": "José Luis ",
@@ -3434,6 +3535,7 @@
         "Puntos CxM Sierras de Espiel": ""
     },
     {
+        "Categoria": "Absoluto Masculino",
         "Puesto": "36",
         "Puntos Copa": "8",
         "Nombre": "Antonio Manuel ",
