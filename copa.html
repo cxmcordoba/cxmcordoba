@@ -24,6 +24,9 @@
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/modern-table.css" />
+
+
 
 </head>
 
@@ -292,6 +295,8 @@
                     </div>
                 </div>
             </div>
+
+            <div id="table-container"></div>
 
         </div>
     </section>
@@ -638,6 +643,50 @@
     <script src="js/plugins/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
+    <script src="js/modern-table.js"></script>
+    <script>
+
+const localJSON = 'copa-clasificacion.json';
+
+const sampleTable = new ModernTable(
+  'table-container', // tableContainerID
+  'sample-table', // tableID
+  localJSON, // dataURL
+  {
+    tableClasses: 'table table-bordered table-striped table-hover table-sticky table-sm',
+    tableCaption: 'Clasificación final Copa CxM Córdoba 2024',
+    searchClasses: 'form-control',
+    colConfig: {
+      'rpt_date': {
+        'format': 'date-us',
+        'dateFrom': 'YYYY-MM-DD',
+        'dateTo': 'MM/DD/YY',
+        'colTitle': 'Report Date'
+      },
+      'new_customers': {
+        'format': 'number-grouped',
+        'alignment': 'right'
+      },
+      'revenue': {
+        'format': 'currency-us',
+        'alignment': 'right'
+      },
+      'cogs': {
+        'format': 'currency-us',
+        'alignment': 'right'
+      },
+      'profit': {
+        'format': 'currency-us',
+        'alignment': 'right'
+      },
+      'profit_margin': {
+        'format': 'percent',
+        'numDecimals': 1,
+        'alignment': 'right'
+      }
+    }
+  });
+    </script>
 </body>
 
 </html>
