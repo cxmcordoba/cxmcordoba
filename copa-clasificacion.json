@@ -1,7 +1,7 @@
 [
     {
-        "Categoria": "Junior Masculino",
         "Puesto": "1",
+        "Puntos Copa": "606",
         "Nombre": "Antonio",
         "Apellidos": "Domínguez Fernández",
         "Club": "C.A. Palma del Río",
@@ -27,11 +27,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "1",
-        "Tiempo CxM Túrdulos": "1:34:39"
+        "Tiempo CxM Túrdulos": "1:34:39",
+        "Puntos CxM Túrdulos": "100",
+        "CxM Sierras de Espiel Puesto": "2",
+        "Tiempo CxM Sierras de Espiel": "1:18:43",
+        "Puntos CxM Sierras de Espiel": "106"
     },
     {
-        "Categoria": "Senior Femenina",
         "Puesto": "1",
+        "Puntos Copa": "530",
         "Nombre": "Pilar",
         "Apellidos": "Molina Urbano",
         "Club": "Kabras Lokas",
@@ -57,11 +61,15 @@
         "Tiempo CxM Epora Trail": "2:44:25",
         "Puntos CxM Epora Trail": "78",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "4",
+        "Tiempo CxM Sierras de Espiel": "03:19:10",
+        "Puntos CxM Sierras de Espiel": "86"
     },
     {
-        "Categoria": "Senior Femenina",
         "Puesto": "2",
+        "Puntos Copa": "486",
         "Nombre": "Sara María ",
         "Apellidos": "Galisteo Pérez ",
         "Club": "Omeyas Trail",
@@ -87,11 +95,15 @@
         "Tiempo CxM Epora Trail": "2:17:22",
         "Puntos CxM Epora Trail": "100",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "1",
+        "Tiempo CxM Sierras de Espiel": "02:47:11",
+        "Puntos CxM Sierras de Espiel": "120"
     },
     {
-        "Categoria": "Senior Masculino",
         "Puesto": "1",
+        "Puntos Copa": "528",
         "Nombre": "Francisco José",
         "Apellidos": "Velasco Hurtado",
         "Club": "Independiente",
@@ -117,11 +129,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "2",
-        "Tiempo CxM Túrdulos": "1:51:19"
+        "Tiempo CxM Túrdulos": "1:51:19",
+        "Puntos CxM Túrdulos": "88",
+        "CxM Sierras de Espiel Puesto": "4",
+        "Tiempo CxM Sierras de Espiel": "02:17:17",
+        "Puntos CxM Sierras de Espiel": "86"
     },
     {
-        "Categoria": "Senior Masculino",
         "Puesto": "2",
+        "Puntos Copa": "447",
         "Nombre": "Antonio Jesús ",
         "Apellidos": "Ruz Rodríguez",
         "Club": "Hermes Gym",
@@ -147,11 +163,15 @@
         "Tiempo CxM Epora Trail": "1:56:58",
         "Puntos CxM Epora Trail": "88",
         "CxM Túrdulos Puesto": "4",
-        "Tiempo CxM Túrdulos": "1:59:09"
+        "Tiempo CxM Túrdulos": "1:59:09",
+        "Puntos CxM Túrdulos": "72",
+        "CxM Sierras de Espiel Puesto": "6",
+        "Tiempo CxM Sierras de Espiel": "02:23:12",
+        "Puntos CxM Sierras de Espiel": "79"
     },
     {
-        "Categoria": "Senior Masculino",
         "Puesto": "3",
+        "Puntos Copa": "440",
         "Nombre": "Lucas",
         "Apellidos": "Cano Pozuelo",
         "Club": "Club De Atletismo Villanueva De Córdoba",
@@ -177,11 +197,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "3",
-        "Tiempo CxM Túrdulos": "1:54:12"
+        "Tiempo CxM Túrdulos": "1:54:12",
+        "Puntos CxM Túrdulos": "78",
+        "CxM Sierras de Espiel Puesto": "3",
+        "Tiempo CxM Sierras de Espiel": "02:17:07",
+        "Puntos CxM Sierras de Espiel": "94"
     },
     {
-        "Categoria": "Senior Masculino",
         "Puesto": "4",
+        "Puntos Copa": "439",
         "Nombre": "Roberto",
         "Apellidos": "Salado Moya",
         "Club": "Omeyas Trail",
@@ -207,11 +231,15 @@
         "Tiempo CxM Epora Trail": "1:59:21",
         "Puntos CxM Epora Trail": "72",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "7",
+        "Tiempo CxM Sierras de Espiel": "02:24:33",
+        "Puntos CxM Sierras de Espiel": "77"
     },
     {
-        "Categoria": "Senior Masculino",
         "Puesto": "5",
+        "Puntos Copa": "398",
         "Nombre": "Francisco",
         "Apellidos": "León Martínez",
         "Club": "C.D. Cordobatrail Running",
@@ -237,11 +265,15 @@
         "Tiempo CxM Epora Trail": "1:57:33",
         "Puntos CxM Epora Trail": "78",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "5",
+        "Tiempo CxM Sierras de Espiel": "02:20:51",
+        "Puntos CxM Sierras de Espiel": "82"
     },
     {
-        "Categoria": "Senior Masculino",
         "Puesto": "6",
+        "Puntos Copa": "396",
         "Nombre": "Jorge",
         "Apellidos": "Ordóñez Mariscal",
         "Club": "Independiente",
@@ -267,11 +299,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "1",
-        "Tiempo CxM Túrdulos": "1:50:00"
+        "Tiempo CxM Túrdulos": "1:50:00",
+        "Puntos CxM Túrdulos": "100",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Senior Masculino",
         "Puesto": "7",
+        "Puntos Copa": "310",
         "Nombre": "Sergio",
         "Apellidos": "Pedraza Gutiérrez ",
         "Club": "Club De Atletismo Villanueva De Córdoba",
@@ -297,11 +333,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "5",
-        "Tiempo CxM Túrdulos": "2:10:04"
+        "Tiempo CxM Túrdulos": "2:10:04",
+        "Puntos CxM Túrdulos": "68",
+        "CxM Sierras de Espiel Puesto": "10",
+        "Tiempo CxM Sierras de Espiel": "02:51:37",
+        "Puntos CxM Sierras de Espiel": "70"
     },
     {
-        "Categoria": "Senior Masculino",
         "Puesto": "8",
+        "Puntos Copa": "286",
         "Nombre": "José Javier",
         "Apellidos": "Gómez González",
         "Club": "Kabras Lokas",
@@ -327,11 +367,15 @@
         "Tiempo CxM Epora Trail": "2:44:25",
         "Puntos CxM Epora Trail": "60",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "13",
+        "Tiempo CxM Sierras de Espiel": "03:19:12",
+        "Puntos CxM Sierras de Espiel": "62"
     },
     {
-        "Categoria": "Veterana A Femenina",
         "Puesto": "1",
+        "Puntos Copa": "620",
         "Nombre": "Pilar",
         "Apellidos": "Montes Benítez ",
         "Club": "Cd Peñón Del Nervo",
@@ -357,11 +401,15 @@
         "Tiempo CxM Epora Trail": "2:16:28",
         "Puntos CxM Epora Trail": "88",
         "CxM Túrdulos Puesto": "2",
-        "Tiempo CxM Túrdulos": "2:14:11"
+        "Tiempo CxM Túrdulos": "2:14:11",
+        "Puntos CxM Túrdulos": "88",
+        "CxM Sierras de Espiel Puesto": "1",
+        "Tiempo CxM Sierras de Espiel": "02:44:04",
+        "Puntos CxM Sierras de Espiel": "120"
     },
     {
-        "Categoria": "Veterana A Femenina",
         "Puesto": "2",
+        "Puntos Copa": "558",
         "Nombre": "Susana",
         "Apellidos": "Montes Benítez ",
         "Club": "Cd Peñón Del Nervo",
@@ -387,11 +435,15 @@
         "Tiempo CxM Epora Trail": "2:16:30",
         "Puntos CxM Epora Trail": "78",
         "CxM Túrdulos Puesto": "1",
-        "Tiempo CxM Túrdulos": "2:13:58"
+        "Tiempo CxM Túrdulos": "2:13:58",
+        "Puntos CxM Túrdulos": "100",
+        "CxM Sierras de Espiel Puesto": "2",
+        "Tiempo CxM Sierras de Espiel": "02:44:05",
+        "Puntos CxM Sierras de Espiel": "106"
     },
     {
-        "Categoria": "Veterana A Femenina",
         "Puesto": "3",
+        "Puntos Copa": "506",
         "Nombre": "Ana Belén ",
         "Apellidos": "Herreros Alguacil ",
         "Club": "Cd Los Agujetas De Córdoba ",
@@ -417,11 +469,15 @@
         "Tiempo CxM Epora Trail": "2:19:08",
         "Puntos CxM Epora Trail": "72",
         "CxM Túrdulos Puesto": "3",
-        "Tiempo CxM Túrdulos": "2:16:54"
+        "Tiempo CxM Túrdulos": "2:16:54",
+        "Puntos CxM Túrdulos": "78",
+        "CxM Sierras de Espiel Puesto": "3",
+        "Tiempo CxM Sierras de Espiel": "02:49:15",
+        "Puntos CxM Sierras de Espiel": "94"
     },
     {
-        "Categoria": "Veterana A Femenina",
         "Puesto": "4",
+        "Puntos Copa": "458",
         "Nombre": "Beatriz",
         "Apellidos": "Montes Benítez ",
         "Club": "Cd Peñón Del Nervo",
@@ -447,11 +503,15 @@
         "Tiempo CxM Epora Trail": "2:23:07",
         "Puntos CxM Epora Trail": "68",
         "CxM Túrdulos Puesto": "4",
-        "Tiempo CxM Túrdulos": "2:21:57"
+        "Tiempo CxM Túrdulos": "2:21:57",
+        "Puntos CxM Túrdulos": "72",
+        "CxM Sierras de Espiel Puesto": "4",
+        "Tiempo CxM Sierras de Espiel": "02:56:34",
+        "Puntos CxM Sierras de Espiel": "86"
     },
     {
-        "Categoria": "Veterana A Femenina",
         "Puesto": "5",
+        "Puntos Copa": "442",
         "Nombre": "María Rosario",
         "Apellidos": "Cobo Mérida ",
         "Club": "Garito Running",
@@ -477,11 +537,15 @@
         "Tiempo CxM Epora Trail": "2:41:45",
         "Puntos CxM Epora Trail": "64",
         "CxM Túrdulos Puesto": "5",
-        "Tiempo CxM Túrdulos": "2:29:54"
+        "Tiempo CxM Túrdulos": "2:29:54",
+        "Puntos CxM Túrdulos": "68",
+        "CxM Sierras de Espiel Puesto": "5",
+        "Tiempo CxM Sierras de Espiel": "03:23:54",
+        "Puntos CxM Sierras de Espiel": "82"
     },
     {
-        "Categoria": "Veterana A Femenina",
         "Puesto": "6",
+        "Puntos Copa": "421",
         "Nombre": "Eva María ",
         "Apellidos": "Tarifa Gómez ",
         "Club": "Hermes Gym",
@@ -507,11 +571,15 @@
         "Tiempo CxM Epora Trail": "2:47:42",
         "Puntos CxM Epora Trail": "62",
         "CxM Túrdulos Puesto": "6",
-        "Tiempo CxM Túrdulos": "2:35:09"
+        "Tiempo CxM Túrdulos": "2:35:09",
+        "Puntos CxM Túrdulos": "66",
+        "CxM Sierras de Espiel Puesto": "6",
+        "Tiempo CxM Sierras de Espiel": "03:34:18",
+        "Puntos CxM Sierras de Espiel": "79"
     },
     {
-        "Categoria": "Veterana A Femenina",
         "Puesto": "7",
+        "Puntos Copa": "388",
         "Nombre": "Soco",
         "Apellidos": "Romero Silva",
         "Club": "Independiente",
@@ -537,11 +605,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "10",
-        "Tiempo CxM Túrdulos": "3:04:54"
+        "Tiempo CxM Túrdulos": "3:04:54",
+        "Puntos CxM Túrdulos": "58",
+        "CxM Sierras de Espiel Puesto": "9",
+        "Tiempo CxM Sierras de Espiel": "03:57:12",
+        "Puntos CxM Sierras de Espiel": "72"
     },
     {
-        "Categoria": "Veterana A Femenina",
         "Puesto": "8",
+        "Puntos Copa": "380",
         "Nombre": "Nuria ",
         "Apellidos": "Martí Torrico",
         "Club": "Omeyas Trail ",
@@ -567,11 +639,15 @@
         "Tiempo CxM Epora Trail": "3:03:48",
         "Puntos CxM Epora Trail": "56",
         "CxM Túrdulos Puesto": "8",
-        "Tiempo CxM Túrdulos": "2:58:05"
+        "Tiempo CxM Túrdulos": "2:58:05",
+        "Puntos CxM Túrdulos": "62",
+        "CxM Sierras de Espiel Puesto": "8",
+        "Tiempo CxM Sierras de Espiel": "03:57:11",
+        "Puntos CxM Sierras de Espiel": "74"
     },
     {
-        "Categoria": "Veterana A Femenina",
         "Puesto": "9",
+        "Puntos Copa": "375",
         "Nombre": "Ana María",
         "Apellidos": "Ezqueta Figueroa",
         "Club": "Verticalia ",
@@ -597,11 +673,15 @@
         "Tiempo CxM Epora Trail": "3:06:25",
         "Puntos CxM Epora Trail": "54",
         "CxM Túrdulos Puesto": "7",
-        "Tiempo CxM Túrdulos": "2:56:34"
+        "Tiempo CxM Túrdulos": "2:56:34",
+        "Puntos CxM Túrdulos": "64",
+        "CxM Sierras de Espiel Puesto": "7",
+        "Tiempo CxM Sierras de Espiel": "03:56:17",
+        "Puntos CxM Sierras de Espiel": "77"
     },
     {
-        "Categoria": "Veterana A Femenina",
         "Puesto": "10",
+        "Puntos Copa": "361",
         "Nombre": "Migueli",
         "Apellidos": "Cerro Carpio ",
         "Club": "Independiente",
@@ -627,11 +707,15 @@
         "Tiempo CxM Epora Trail": "3:09:11",
         "Puntos CxM Epora Trail": "52",
         "CxM Túrdulos Puesto": "9",
-        "Tiempo CxM Túrdulos": "3:04:10"
+        "Tiempo CxM Túrdulos": "3:04:10",
+        "Puntos CxM Túrdulos": "60",
+        "CxM Sierras de Espiel Puesto": "11",
+        "Tiempo CxM Sierras de Espiel": "04:04:16",
+        "Puntos CxM Sierras de Espiel": "67"
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "1",
+        "Puntos Copa": "620",
         "Nombre": "Antonio",
         "Apellidos": "Rosa Trujillo",
         "Club": "Cabra Running",
@@ -657,11 +741,15 @@
         "Tiempo CxM Epora Trail": "1:49:00",
         "Puntos CxM Epora Trail": "100",
         "CxM Túrdulos Puesto": "1",
-        "Tiempo CxM Túrdulos": "1:45:55"
+        "Tiempo CxM Túrdulos": "1:45:55",
+        "Puntos CxM Túrdulos": "100",
+        "CxM Sierras de Espiel Puesto": "1",
+        "Tiempo CxM Sierras de Espiel": "02:10:09",
+        "Puntos CxM Sierras de Espiel": "120"
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "2",
+        "Puntos Copa": "536",
         "Nombre": "Juan Diego",
         "Apellidos": "Jurado Peñas",
         "Club": "Calatraveño Trail",
@@ -687,11 +775,15 @@
         "Tiempo CxM Epora Trail": "1:57:45",
         "Puntos CxM Epora Trail": "78",
         "CxM Túrdulos Puesto": "2",
-        "Tiempo CxM Túrdulos": "1:52:22"
+        "Tiempo CxM Túrdulos": "1:52:22",
+        "Puntos CxM Túrdulos": "88",
+        "CxM Sierras de Espiel Puesto": "2",
+        "Tiempo CxM Sierras de Espiel": "02:13:02",
+        "Puntos CxM Sierras de Espiel": "106"
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "3",
+        "Puntos Copa": "458",
         "Nombre": "José Antonio",
         "Apellidos": "Molina Jiménez",
         "Club": "C.D. Atletismo Montemayor ",
@@ -717,11 +809,15 @@
         "Tiempo CxM Epora Trail": "1:58:50",
         "Puntos CxM Epora Trail": "72",
         "CxM Túrdulos Puesto": "3",
-        "Tiempo CxM Túrdulos": "1:53:09"
+        "Tiempo CxM Túrdulos": "1:53:09",
+        "Puntos CxM Túrdulos": "78",
+        "CxM Sierras de Espiel Puesto": "3",
+        "Tiempo CxM Sierras de Espiel": "02:20:05",
+        "Puntos CxM Sierras de Espiel": "94"
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "4",
+        "Puntos Copa": "440",
         "Nombre": "David",
         "Apellidos": "Cruz Luque",
         "Club": "Kudo Energy ",
@@ -747,11 +843,15 @@
         "Tiempo CxM Epora Trail": "2:01:48",
         "Puntos CxM Epora Trail": "66",
         "CxM Túrdulos Puesto": "4",
-        "Tiempo CxM Túrdulos": "1:55:20"
+        "Tiempo CxM Túrdulos": "1:55:20",
+        "Puntos CxM Túrdulos": "72",
+        "CxM Sierras de Espiel Puesto": "5",
+        "Tiempo CxM Sierras de Espiel": "02:29:54",
+        "Puntos CxM Sierras de Espiel": "82"
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "5",
+        "Puntos Copa": "384",
         "Nombre": "Mario",
         "Apellidos": "Arteaga Atalaya",
         "Club": "Kabras Lokas Trail Kordoba",
@@ -777,11 +877,15 @@
         "Tiempo CxM Epora Trail": "2:12:34",
         "Puntos CxM Epora Trail": "60",
         "CxM Túrdulos Puesto": "6",
-        "Tiempo CxM Túrdulos": "2:02:14"
+        "Tiempo CxM Túrdulos": "2:02:14",
+        "Puntos CxM Túrdulos": "66",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "6",
+        "Puntos Copa": "382",
         "Nombre": "Antonio David",
         "Apellidos": "León Martínez ",
         "Club": "C.D Los Agujetas De Villafranca ",
@@ -807,11 +911,15 @@
         "Tiempo CxM Epora Trail": "2:07:26",
         "Puntos CxM Epora Trail": "64",
         "CxM Túrdulos Puesto": "7",
-        "Tiempo CxM Túrdulos": "2:10:12"
+        "Tiempo CxM Túrdulos": "2:10:12",
+        "Puntos CxM Túrdulos": "64",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "7",
+        "Puntos Copa": "376",
         "Nombre": "Francisco Javier",
         "Apellidos": "Ordóñez Márquez",
         "Club": "Omeyas Trail",
@@ -837,11 +945,15 @@
         "Tiempo CxM Epora Trail": "2:15:10",
         "Puntos CxM Epora Trail": "54",
         "CxM Túrdulos Puesto": "8",
-        "Tiempo CxM Túrdulos": "2:10:24"
+        "Tiempo CxM Túrdulos": "2:10:24",
+        "Puntos CxM Túrdulos": "62",
+        "CxM Sierras de Espiel Puesto": "9",
+        "Tiempo CxM Sierras de Espiel": "02:49:29",
+        "Puntos CxM Sierras de Espiel": "72"
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "8",
+        "Puntos Copa": "367",
         "Nombre": "Rafael",
         "Apellidos": "González Castillejo ",
         "Club": "C.D Los Agujetas De Villafranca",
@@ -867,11 +979,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "5",
-        "Tiempo CxM Túrdulos": "1:59:28"
+        "Tiempo CxM Túrdulos": "1:59:28",
+        "Puntos CxM Túrdulos": "68",
+        "CxM Sierras de Espiel Puesto": "6",
+        "Tiempo CxM Sierras de Espiel": "02:30:26",
+        "Puntos CxM Sierras de Espiel": "79"
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "9",
+        "Puntos Copa": "326",
         "Nombre": "Juan Manuel",
         "Apellidos": "Aguilar León",
         "Club": "Kudo Energy",
@@ -897,11 +1013,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "9",
-        "Tiempo CxM Túrdulos": "2:21:41"
+        "Tiempo CxM Túrdulos": "2:21:41",
+        "Puntos CxM Túrdulos": "60",
+        "CxM Sierras de Espiel Puesto": "8",
+        "Tiempo CxM Sierras de Espiel": "02:48:03",
+        "Puntos CxM Sierras de Espiel": "74"
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "10",
+        "Puntos Copa": "272",
         "Nombre": "Antonio Javier ",
         "Apellidos": "González Serrano ",
         "Club": "Atletismo Fernán Núñez ",
@@ -927,11 +1047,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "11",
+        "Puntos Copa": "248",
         "Nombre": "José Ramon ",
         "Apellidos": "Granados Vázquez",
         "Club": "Kabras Lokas Trail ",
@@ -957,11 +1081,15 @@
         "Tiempo CxM Epora Trail": "2:56:59",
         "Puntos CxM Epora Trail": "38",
         "CxM Túrdulos Puesto": "12",
-        "Tiempo CxM Túrdulos": "2:55:27"
+        "Tiempo CxM Túrdulos": "2:55:27",
+        "Puntos CxM Túrdulos": "54",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "12",
+        "Puntos Copa": "240",
         "Nombre": "Tomas",
         "Apellidos": "Hidalgo Martínez",
         "Club": "Club Atletismo Montemayor",
@@ -987,11 +1115,15 @@
         "Tiempo CxM Epora Trail": "3:20:44",
         "Puntos CxM Epora Trail": "30",
         "CxM Túrdulos Puesto": "13",
-        "Tiempo CxM Túrdulos": "3:08:45"
+        "Tiempo CxM Túrdulos": "3:08:45",
+        "Puntos CxM Túrdulos": "52",
+        "CxM Sierras de Espiel Puesto": "13",
+        "Tiempo CxM Sierras de Espiel": "04:15:48",
+        "Puntos CxM Sierras de Espiel": "62"
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "13",
+        "Puntos Copa": "226",
         "Nombre": "Ángel ",
         "Apellidos": "Ruiz Moreno ",
         "Club": "Omeyas Trail ",
@@ -1017,11 +1149,15 @@
         "Tiempo CxM Epora Trail": "2:42:29",
         "Puntos CxM Epora Trail": "44",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterano A Masculino",
         "Puesto": "14",
+        "Puntos Copa": "218",
         "Nombre": "José Luis ",
         "Apellidos": "Gómez Cañete ",
         "Club": "C.D. Abuchite Extreme",
@@ -1047,11 +1183,15 @@
         "Tiempo CxM Epora Trail": "2:51:39",
         "Puntos CxM Epora Trail": "42",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterana B Femenina",
         "Puesto": "1",
+        "Puntos Copa": "574",
         "Nombre": "Clemencia",
         "Apellidos": "López Carrasco ",
         "Club": "Kabras Lokas Trail",
@@ -1077,11 +1217,15 @@
         "Tiempo CxM Epora Trail": "2:57:20",
         "Puntos CxM Epora Trail": "78",
         "CxM Túrdulos Puesto": "2",
-        "Tiempo CxM Túrdulos": "2:51:09"
+        "Tiempo CxM Túrdulos": "2:51:09",
+        "Puntos CxM Túrdulos": "88",
+        "CxM Sierras de Espiel Puesto": "1",
+        "Tiempo CxM Sierras de Espiel": "03:54:23",
+        "Puntos CxM Sierras de Espiel": "120"
     },
     {
-        "Categoria": "Veterana B Femenina",
         "Puesto": "2",
+        "Puntos Copa": "436",
         "Nombre": "María Luz",
         "Apellidos": "Luna Castañeda",
         "Club": "Omeyas Trail",
@@ -1107,11 +1251,15 @@
         "Tiempo CxM Epora Trail": "3:22:03",
         "Puntos CxM Epora Trail": "68",
         "CxM Túrdulos Puesto": "5",
-        "Tiempo CxM Túrdulos": "3:15:27"
+        "Tiempo CxM Túrdulos": "3:15:27",
+        "Puntos CxM Túrdulos": "68",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterana B Femenina",
         "Puesto": "3",
+        "Puntos Copa": "390",
         "Nombre": "Gloria ",
         "Apellidos": "Mohedano Prieto ",
         "Club": "Club Verticalia ",
@@ -1137,11 +1285,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "3",
-        "Tiempo CxM Túrdulos": "2:56:54"
+        "Tiempo CxM Túrdulos": "2:56:54",
+        "Puntos CxM Túrdulos": "78",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterano B Masculino",
         "Puesto": "1",
+        "Puntos Copa": "620",
         "Nombre": "Antonio Jesús ",
         "Apellidos": "Cano Borrego",
         "Club": "Kabras Lokas Trail Córdoba ",
@@ -1167,11 +1319,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "1",
-        "Tiempo CxM Túrdulos": "1:58:35"
+        "Tiempo CxM Túrdulos": "1:58:35",
+        "Puntos CxM Túrdulos": "100",
+        "CxM Sierras de Espiel Puesto": "1",
+        "Tiempo CxM Sierras de Espiel": "02:21:17",
+        "Puntos CxM Sierras de Espiel": "120"
     },
     {
-        "Categoria": "Veterano B Masculino",
         "Puesto": "2",
+        "Puntos Copa": "558",
         "Nombre": "Juan Carlos ",
         "Apellidos": "Fernández Sepúlveda ",
         "Club": "Club De Montaña Montecobre Trail ",
@@ -1197,11 +1353,15 @@
         "Tiempo CxM Epora Trail": "2:03:48",
         "Puntos CxM Epora Trail": "100",
         "CxM Túrdulos Puesto": "2",
-        "Tiempo CxM Túrdulos": "2:04:33"
+        "Tiempo CxM Túrdulos": "2:04:33",
+        "Puntos CxM Túrdulos": "88",
+        "CxM Sierras de Espiel Puesto": "3",
+        "Tiempo CxM Sierras de Espiel": "02:33:04",
+        "Puntos CxM Sierras de Espiel": "94"
     },
     {
-        "Categoria": "Veterano B Masculino",
         "Puesto": "3",
+        "Puntos Copa": "479",
         "Nombre": "David",
         "Apellidos": "Dorado Molinero",
         "Club": "Club Maratón Lucena",
@@ -1227,11 +1387,15 @@
         "Tiempo CxM Epora Trail": "2:12:10",
         "Puntos CxM Epora Trail": "78",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "6",
+        "Tiempo CxM Sierras de Espiel": "02:47:17",
+        "Puntos CxM Sierras de Espiel": "79"
     },
     {
-        "Categoria": "Veterano B Masculino",
         "Puesto": "4",
+        "Puntos Copa": "468",
         "Nombre": "José ",
         "Apellidos": "Bermúdez Fernández ",
         "Club": "Agujetas De Villafranca ",
@@ -1257,11 +1421,15 @@
         "Tiempo CxM Epora Trail": "2:13:05",
         "Puntos CxM Epora Trail": "72",
         "CxM Túrdulos Puesto": "3",
-        "Tiempo CxM Túrdulos": "2:10:34"
+        "Tiempo CxM Túrdulos": "2:10:34",
+        "Puntos CxM Túrdulos": "78",
+        "CxM Sierras de Espiel Puesto": "4",
+        "Tiempo CxM Sierras de Espiel": "02:39:41",
+        "Puntos CxM Sierras de Espiel": "86"
     },
     {
-        "Categoria": "Veterano B Masculino",
         "Puesto": "5",
+        "Puntos Copa": "420",
         "Nombre": "Juan Antonio",
         "Apellidos": "Moreno Gallego",
         "Club": "Kabras Lokas Trail Córdoba ",
@@ -1287,11 +1455,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "5",
+        "Tiempo CxM Sierras de Espiel": "02:45:42",
+        "Puntos CxM Sierras de Espiel": "82"
     },
     {
-        "Categoria": "Veterano B Masculino",
         "Puesto": "6",
+        "Puntos Copa": "403",
         "Nombre": "Rafael ",
         "Apellidos": "Rodríguez Criado ",
         "Club": "Lynx Trail",
@@ -1317,11 +1489,15 @@
         "Tiempo CxM Epora Trail": "2:27:06",
         "Puntos CxM Epora Trail": "64",
         "CxM Túrdulos Puesto": "5",
-        "Tiempo CxM Túrdulos": "2:31:36"
+        "Tiempo CxM Túrdulos": "2:31:36",
+        "Puntos CxM Túrdulos": "68",
+        "CxM Sierras de Espiel Puesto": "7",
+        "Tiempo CxM Sierras de Espiel": "03:03:24",
+        "Puntos CxM Sierras de Espiel": "77"
     },
     {
-        "Categoria": "Veterano B Masculino",
         "Puesto": "7",
+        "Puntos Copa": "329",
         "Nombre": "Alberto ",
         "Apellidos": "Fernández Rivera",
         "Club": "Amigos Del Coche Escoba",
@@ -1347,11 +1523,15 @@
         "Tiempo CxM Epora Trail": "2:56:59",
         "Puntos CxM Epora Trail": "44",
         "CxM Túrdulos Puesto": "10",
-        "Tiempo CxM Túrdulos": "3:26:02"
+        "Tiempo CxM Túrdulos": "3:26:02",
+        "Puntos CxM Túrdulos": "58",
+        "CxM Sierras de Espiel Puesto": "12",
+        "Tiempo CxM Sierras de Espiel": "03:56:04",
+        "Puntos CxM Sierras de Espiel": "65"
     },
     {
-        "Categoria": "Veterano B Masculino",
         "Puesto": "8",
+        "Puntos Copa": "306",
         "Nombre": "Antonio Manuel ",
         "Apellidos": "Castro Espino ",
         "Club": "Cd Amigos Del Coche Escoba ",
@@ -1377,11 +1557,15 @@
         "Tiempo CxM Epora Trail": "2:48:50",
         "Puntos CxM Epora Trail": "48",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterano B Masculino",
         "Puesto": "9",
+        "Puntos Copa": "278",
         "Nombre": "Antonio José ",
         "Apellidos": "Castillejo Carmona",
         "Club": "Cd Amigos Del Coche Escoba",
@@ -1407,11 +1591,15 @@
         "Tiempo CxM Epora Trail": "3:00:02",
         "Puntos CxM Epora Trail": "40",
         "CxM Túrdulos Puesto": "8",
-        "Tiempo CxM Túrdulos": "2:55:26"
+        "Tiempo CxM Túrdulos": "2:55:26",
+        "Puntos CxM Túrdulos": "62",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterano B Masculino",
         "Puesto": "10",
+        "Puntos Copa": "268",
         "Nombre": "Domi",
         "Apellidos": "Molina Bonilla ",
         "Club": "Subbética Outdoor",
@@ -1437,11 +1625,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "9",
-        "Tiempo CxM Túrdulos": "2:59:31"
+        "Tiempo CxM Túrdulos": "2:59:31",
+        "Puntos CxM Túrdulos": "60",
+        "CxM Sierras de Espiel Puesto": "15",
+        "Tiempo CxM Sierras de Espiel": "04:24:56",
+        "Puntos CxM Sierras de Espiel": "58"
     },
     {
-        "Categoria": "Veterano C Masculino",
         "Puesto": "1",
+        "Puntos Copa": "598",
         "Nombre": "Juan José",
         "Apellidos": "Carvajal Pérez",
         "Club": "C. D. Cabra Running",
@@ -1467,11 +1659,15 @@
         "Tiempo CxM Epora Trail": "2:29:14",
         "Puntos CxM Epora Trail": "100",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "1",
+        "Tiempo CxM Sierras de Espiel": "03:07:03",
+        "Puntos CxM Sierras de Espiel": "120"
     },
     {
-        "Categoria": "Veterano C Masculino",
         "Puesto": "2",
+        "Puntos Copa": "546",
         "Nombre": "Pedro",
         "Apellidos": "Ruiz Ruiz",
         "Club": "Kabras Lokas Trail Kordoba",
@@ -1497,11 +1693,15 @@
         "Tiempo CxM Epora Trail": "2:31:33",
         "Puntos CxM Epora Trail": "88",
         "CxM Túrdulos Puesto": "2",
-        "Tiempo CxM Túrdulos": "2:29:11"
+        "Tiempo CxM Túrdulos": "2:29:11",
+        "Puntos CxM Túrdulos": "88",
+        "CxM Sierras de Espiel Puesto": "2",
+        "Tiempo CxM Sierras de Espiel": "03:17:38",
+        "Puntos CxM Sierras de Espiel": "106"
     },
     {
-        "Categoria": "Veterano C Masculino",
         "Puesto": "3",
+        "Puntos Copa": "456",
         "Nombre": "José Antonio",
         "Apellidos": "Escribano Espinar",
         "Club": "Kabras Lokas Trail",
@@ -1527,11 +1727,15 @@
         "Tiempo CxM Epora Trail": "2:51:03",
         "Puntos CxM Epora Trail": "72",
         "CxM Túrdulos Puesto": "3",
-        "Tiempo CxM Túrdulos": "2:36:03"
+        "Tiempo CxM Túrdulos": "2:36:03",
+        "Puntos CxM Túrdulos": "78",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Veterano C Masculino",
         "Puesto": "4",
+        "Puntos Copa": "430",
         "Nombre": "Juan",
         "Apellidos": "Cobacho Gómez",
         "Club": "Montecobre Trail",
@@ -1557,11 +1761,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "4",
-        "Tiempo CxM Túrdulos": "3:23:52"
+        "Tiempo CxM Túrdulos": "3:23:52",
+        "Puntos CxM Túrdulos": "72",
+        "CxM Sierras de Espiel Puesto": "5",
+        "Tiempo CxM Sierras de Espiel": "04:21:35",
+        "Puntos CxM Sierras de Espiel": "82"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "1",
+        "Puntos Copa": "620",
         "Nombre": "Pilar",
         "Apellidos": "Montes Benítez ",
         "Club": "Cd Peñón Del Nervo",
@@ -1587,11 +1795,15 @@
         "Tiempo CxM Epora Trail": "2:16:28",
         "Puntos CxM Epora Trail": "88",
         "CxM Túrdulos Puesto": "2",
-        "Tiempo CxM Túrdulos": "2:14:11"
+        "Tiempo CxM Túrdulos": "2:14:11",
+        "Puntos CxM Túrdulos": "88",
+        "CxM Sierras de Espiel Puesto": "1",
+        "Tiempo CxM Sierras de Espiel": "02:44:04",
+        "Puntos CxM Sierras de Espiel": "120"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "2",
+        "Puntos Copa": "558",
         "Nombre": "Susana",
         "Apellidos": "Montes Benítez ",
         "Club": "Cd Peñón Del Nervo",
@@ -1617,11 +1829,15 @@
         "Tiempo CxM Epora Trail": "2:16:30",
         "Puntos CxM Epora Trail": "78",
         "CxM Túrdulos Puesto": "1",
-        "Tiempo CxM Túrdulos": "2:13:58"
+        "Tiempo CxM Túrdulos": "2:13:58",
+        "Puntos CxM Túrdulos": "100",
+        "CxM Sierras de Espiel Puesto": "2",
+        "Tiempo CxM Sierras de Espiel": "02:44:05",
+        "Puntos CxM Sierras de Espiel": "106"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "3",
+        "Puntos Copa": "470",
         "Nombre": "Ana Belén ",
         "Apellidos": "Herreros Alguacil ",
         "Club": "Cd Los Agujetas De Córdoba ",
@@ -1647,11 +1863,15 @@
         "Tiempo CxM Epora Trail": "2:19:08",
         "Puntos CxM Epora Trail": "68",
         "CxM Túrdulos Puesto": "3",
-        "Tiempo CxM Túrdulos": "2:16:54"
+        "Tiempo CxM Túrdulos": "2:16:54",
+        "Puntos CxM Túrdulos": "78",
+        "CxM Sierras de Espiel Puesto": "4",
+        "Tiempo CxM Sierras de Espiel": "02:49:15",
+        "Puntos CxM Sierras de Espiel": "86"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "4",
+        "Puntos Copa": "454",
         "Nombre": "Beatriz",
         "Apellidos": "Montes Benítez ",
         "Club": "Cd Peñón Del Nervo",
@@ -1677,11 +1897,15 @@
         "Tiempo CxM Epora Trail": "2:23:07",
         "Puntos CxM Epora Trail": "66",
         "CxM Túrdulos Puesto": "4",
-        "Tiempo CxM Túrdulos": "2:21:57"
+        "Tiempo CxM Túrdulos": "2:21:57",
+        "Puntos CxM Túrdulos": "72",
+        "CxM Sierras de Espiel Puesto": "5",
+        "Tiempo CxM Sierras de Espiel": "02:56:34",
+        "Puntos CxM Sierras de Espiel": "82"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "5",
+        "Puntos Copa": "416",
         "Nombre": "María Rosario",
         "Apellidos": "Cobo Mérida ",
         "Club": "Garito Running",
@@ -1707,11 +1931,15 @@
         "Tiempo CxM Epora Trail": "2:41:45",
         "Puntos CxM Epora Trail": "58",
         "CxM Túrdulos Puesto": "5",
-        "Tiempo CxM Túrdulos": "2:29:54"
+        "Tiempo CxM Túrdulos": "2:29:54",
+        "Puntos CxM Túrdulos": "68",
+        "CxM Sierras de Espiel Puesto": "9",
+        "Tiempo CxM Sierras de Espiel": "03:23:54",
+        "Puntos CxM Sierras de Espiel": "72"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "6",
+        "Puntos Copa": "388",
         "Nombre": "Eva María ",
         "Apellidos": "Tarifa Gómez ",
         "Club": "Hermes Gym",
@@ -1737,11 +1965,15 @@
         "Tiempo CxM Epora Trail": "2:47:42",
         "Puntos CxM Epora Trail": "52",
         "CxM Túrdulos Puesto": "6",
-        "Tiempo CxM Túrdulos": "2:35:09"
+        "Tiempo CxM Túrdulos": "2:35:09",
+        "Puntos CxM Túrdulos": "66",
+        "CxM Sierras de Espiel Puesto": "10",
+        "Tiempo CxM Sierras de Espiel": "03:34:18",
+        "Puntos CxM Sierras de Espiel": "70"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "7",
+        "Puntos Copa": "382",
         "Nombre": "Sara María ",
         "Apellidos": "Galisteo Pérez ",
         "Club": "Omeyas Trail",
@@ -1767,11 +1999,15 @@
         "Tiempo CxM Epora Trail": "2:17:22",
         "Puntos CxM Epora Trail": "72",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "3",
+        "Tiempo CxM Sierras de Espiel": "02:47:11",
+        "Puntos CxM Sierras de Espiel": "94"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "8",
+        "Puntos Copa": "376",
         "Nombre": "Pilar",
         "Apellidos": "Molina Urbano",
         "Club": "Kabras Lokas",
@@ -1797,11 +2033,15 @@
         "Tiempo CxM Epora Trail": "2:44:25",
         "Puntos CxM Epora Trail": "56",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "9",
+        "Puntos Copa": "353",
         "Nombre": "Clemencia",
         "Apellidos": "López Carrasco ",
         "Club": "Kabras Lokas Trail",
@@ -1827,11 +2067,15 @@
         "Tiempo CxM Epora Trail": "2:57:20",
         "Puntos CxM Epora Trail": "48",
         "CxM Túrdulos Puesto": "8",
-        "Tiempo CxM Túrdulos": "2:51:09"
+        "Tiempo CxM Túrdulos": "2:51:09",
+        "Puntos CxM Túrdulos": "62",
+        "CxM Sierras de Espiel Puesto": "12",
+        "Tiempo CxM Sierras de Espiel": "03:54:23",
+        "Puntos CxM Sierras de Espiel": "65"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "10",
+        "Puntos Copa": "329",
         "Nombre": "Soco",
         "Apellidos": "Romero Silva",
         "Club": "Independiente",
@@ -1857,11 +2101,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "13",
-        "Tiempo CxM Túrdulos": "3:04:54"
+        "Tiempo CxM Túrdulos": "3:04:54",
+        "Puntos CxM Túrdulos": "52",
+        "CxM Sierras de Espiel Puesto": "16",
+        "Tiempo CxM Sierras de Espiel": "03:57:12",
+        "Puntos CxM Sierras de Espiel": "55"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "11",
+        "Puntos Copa": "312",
         "Nombre": "Nuria ",
         "Apellidos": "Martí Torrico",
         "Club": "Omeyas Trail ",
@@ -1887,11 +2135,15 @@
         "Tiempo CxM Epora Trail": "3:03:48",
         "Puntos CxM Epora Trail": "42",
         "CxM Túrdulos Puesto": "11",
-        "Tiempo CxM Túrdulos": "2:58:05"
+        "Tiempo CxM Túrdulos": "2:58:05",
+        "Puntos CxM Túrdulos": "56",
+        "CxM Sierras de Espiel Puesto": "15",
+        "Tiempo CxM Sierras de Espiel": "03:57:11",
+        "Puntos CxM Sierras de Espiel": "58"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "12",
+        "Puntos Copa": "304",
         "Nombre": "Ana María",
         "Apellidos": "Ezqueta Figueroa",
         "Club": "Verticalia",
@@ -1917,11 +2169,15 @@
         "Tiempo CxM Epora Trail": "3:06:25",
         "Puntos CxM Epora Trail": "40",
         "CxM Túrdulos Puesto": "9",
-        "Tiempo CxM Túrdulos": "2:56:34"
+        "Tiempo CxM Túrdulos": "2:56:34",
+        "Puntos CxM Túrdulos": "60",
+        "CxM Sierras de Espiel Puesto": "14",
+        "Tiempo CxM Sierras de Espiel": "03:56:17",
+        "Puntos CxM Sierras de Espiel": "60"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "13",
+        "Puntos Copa": "294",
         "Nombre": "Migueli",
         "Apellidos": "Cerro Carpio ",
         "Club": "Independiente",
@@ -1947,11 +2203,15 @@
         "Tiempo CxM Epora Trail": "3:09:11",
         "Puntos CxM Epora Trail": "38",
         "CxM Túrdulos Puesto": "12",
-        "Tiempo CxM Túrdulos": "3:04:10"
+        "Tiempo CxM Túrdulos": "3:04:10",
+        "Puntos CxM Túrdulos": "54",
+        "CxM Sierras de Espiel Puesto": "19",
+        "Tiempo CxM Sierras de Espiel": "04:04:16",
+        "Puntos CxM Sierras de Espiel": "48"
     },
     {
-        "Categoria": "Absoluta Femenina",
         "Puesto": "14",
+        "Puntos Copa": "266",
         "Nombre": "María Luz",
         "Apellidos": "Luna Castañeda",
         "Club": "Omeyas Trail",
@@ -1977,11 +2237,15 @@
         "Tiempo CxM Epora Trail": "3:22:03",
         "Puntos CxM Epora Trail": "36",
         "CxM Túrdulos Puesto": "16",
-        "Tiempo CxM Túrdulos": "3:15:27"
+        "Tiempo CxM Túrdulos": "3:15:27",
+        "Puntos CxM Túrdulos": "46",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "1",
+        "Puntos Copa": "570",
         "Nombre": "Antonio",
         "Apellidos": "Rosa Trujillo",
         "Club": "Cabra Running",
@@ -2007,11 +2271,15 @@
         "Tiempo CxM Epora Trail": "1:49:00",
         "Puntos CxM Epora Trail": "100",
         "CxM Túrdulos Puesto": "1",
-        "Tiempo CxM Túrdulos": "1:45:55"
+        "Tiempo CxM Túrdulos": "1:45:55",
+        "Puntos CxM Túrdulos": "100",
+        "CxM Sierras de Espiel Puesto": "3",
+        "Tiempo CxM Sierras de Espiel": "02:10:09",
+        "Puntos CxM Sierras de Espiel": "94"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "2",
+        "Puntos Copa": "457",
         "Nombre": "Francisco José",
         "Apellidos": "Velasco Hurtado",
         "Club": "Independiente",
@@ -2037,11 +2305,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "3",
-        "Tiempo CxM Túrdulos": "1:51:19"
+        "Tiempo CxM Túrdulos": "1:51:19",
+        "Puntos CxM Túrdulos": "78",
+        "CxM Sierras de Espiel Puesto": "6",
+        "Tiempo CxM Sierras de Espiel": "02:17:17",
+        "Puntos CxM Sierras de Espiel": "79"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "3",
+        "Puntos Copa": "442",
         "Nombre": "Juan Diego",
         "Apellidos": "Jurado Peñas",
         "Club": "Maratón Pozoblanco",
@@ -2067,11 +2339,15 @@
         "Tiempo CxM Epora Trail": "1:57:45",
         "Puntos CxM Epora Trail": "66",
         "CxM Túrdulos Puesto": "4",
-        "Tiempo CxM Túrdulos": "1:52:22"
+        "Tiempo CxM Túrdulos": "1:52:22",
+        "Puntos CxM Túrdulos": "72",
+        "CxM Sierras de Espiel Puesto": "4",
+        "Tiempo CxM Sierras de Espiel": "02:13:02",
+        "Puntos CxM Sierras de Espiel": "86"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "4",
+        "Puntos Copa": "399",
         "Nombre": "Roberto",
         "Apellidos": "Salado Moya",
         "Club": "Omeyas Trail",
@@ -2097,11 +2373,15 @@
         "Tiempo CxM Epora Trail": "1:59:21",
         "Puntos CxM Epora Trail": "62",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "11",
+        "Tiempo CxM Sierras de Espiel": "02:24:33",
+        "Puntos CxM Sierras de Espiel": "67"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "5",
+        "Puntos Copa": "394",
         "Nombre": "Antonio Jesús",
         "Apellidos": "Cano Borrego",
         "Club": "Kabras Lokas Trail",
@@ -2127,11 +2407,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "8",
-        "Tiempo CxM Túrdulos": "1:58:35"
+        "Tiempo CxM Túrdulos": "1:58:35",
+        "Puntos CxM Túrdulos": "62",
+        "CxM Sierras de Espiel Puesto": "9",
+        "Tiempo CxM Sierras de Espiel": "02:21:17",
+        "Puntos CxM Sierras de Espiel": "72"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "6",
+        "Puntos Copa": "394",
         "Nombre": "Lucas",
         "Apellidos": "Cano Pozuelo",
         "Club": "Club De Atletismo Villanueva De Córdoba",
@@ -2157,11 +2441,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "6",
-        "Tiempo CxM Túrdulos": "1:54:12"
+        "Tiempo CxM Túrdulos": "1:54:12",
+        "Puntos CxM Túrdulos": "66",
+        "CxM Sierras de Espiel Puesto": "5",
+        "Tiempo CxM Sierras de Espiel": "02:17:07",
+        "Puntos CxM Sierras de Espiel": "82"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "7",
+        "Puntos Copa": "392",
         "Nombre": "Antonio Jesús ",
         "Apellidos": "Ruz Rodríguez",
         "Club": "Hermes Gym",
@@ -2187,11 +2475,15 @@
         "Tiempo CxM Epora Trail": "1:56:58",
         "Puntos CxM Epora Trail": "72",
         "CxM Túrdulos Puesto": "9",
-        "Tiempo CxM Túrdulos": "1:59:09"
+        "Tiempo CxM Túrdulos": "1:59:09",
+        "Puntos CxM Túrdulos": "60",
+        "CxM Sierras de Espiel Puesto": "10",
+        "Tiempo CxM Sierras de Espiel": "02:23:12",
+        "Puntos CxM Sierras de Espiel": "70"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "8",
+        "Puntos Copa": "377",
         "Nombre": "José Antonio",
         "Apellidos": "Molina Jiménez",
         "Club": "C.D. Atletismo Montemayor ",
@@ -2217,11 +2509,15 @@
         "Tiempo CxM Epora Trail": "1:58:50",
         "Puntos CxM Epora Trail": "64",
         "CxM Túrdulos Puesto": "5",
-        "Tiempo CxM Túrdulos": "1:53:09"
+        "Tiempo CxM Túrdulos": "1:53:09",
+        "Puntos CxM Túrdulos": "68",
+        "CxM Sierras de Espiel Puesto": "7",
+        "Tiempo CxM Sierras de Espiel": "02:20:05",
+        "Puntos CxM Sierras de Espiel": "77"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "9",
+        "Puntos Copa": "346",
         "Nombre": "Jorge",
         "Apellidos": "Ordóñez Mariscal",
         "Club": "Independiente",
@@ -2247,11 +2543,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "2",
-        "Tiempo CxM Túrdulos": "1:50:00"
+        "Tiempo CxM Túrdulos": "1:50:00",
+        "Puntos CxM Túrdulos": "88",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "10",
+        "Puntos Copa": "342",
         "Nombre": "David",
         "Apellidos": "Cruz Luque",
         "Club": "Kudo Energy ",
@@ -2277,11 +2577,15 @@
         "Tiempo CxM Epora Trail": "2:01:48",
         "Puntos CxM Epora Trail": "58",
         "CxM Túrdulos Puesto": "7",
-        "Tiempo CxM Túrdulos": "1:55:20"
+        "Tiempo CxM Túrdulos": "1:55:20",
+        "Puntos CxM Túrdulos": "64",
+        "CxM Sierras de Espiel Puesto": "14",
+        "Tiempo CxM Sierras de Espiel": "02:29:54",
+        "Puntos CxM Sierras de Espiel": "60"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "11",
+        "Puntos Copa": "319",
         "Nombre": "Juan Carlos ",
         "Apellidos": "Fernández Sepúlveda ",
         "Club": "Club De Montaña Montecobre Trail ",
@@ -2307,11 +2611,15 @@
         "Tiempo CxM Epora Trail": "2:03:48",
         "Puntos CxM Epora Trail": "56",
         "CxM Túrdulos Puesto": "12",
-        "Tiempo CxM Túrdulos": "2:04:33"
+        "Tiempo CxM Túrdulos": "2:04:33",
+        "Puntos CxM Túrdulos": "54",
+        "CxM Sierras de Espiel Puesto": "17",
+        "Tiempo CxM Sierras de Espiel": "02:33:04",
+        "Puntos CxM Sierras de Espiel": "53"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "12",
+        "Puntos Copa": "316",
         "Nombre": "Francisco",
         "Apellidos": "León Martínez",
         "Club": "C.D. Cordobatrail Running",
@@ -2337,11 +2645,15 @@
         "Tiempo CxM Epora Trail": "1:57:33",
         "Puntos CxM Epora Trail": "68",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "8",
+        "Tiempo CxM Sierras de Espiel": "02:20:51",
+        "Puntos CxM Sierras de Espiel": "74"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "13",
+        "Puntos Copa": "309",
         "Nombre": "Mario",
         "Apellidos": "Arteaga Atalaya",
         "Club": "Kabras Lokas Trail Kordoba",
@@ -2367,11 +2679,15 @@
         "Tiempo CxM Epora Trail": "2:12:34",
         "Puntos CxM Epora Trail": "46",
         "CxM Túrdulos Puesto": "11",
-        "Tiempo CxM Túrdulos": "2:02:14"
+        "Tiempo CxM Túrdulos": "2:02:14",
+        "Puntos CxM Túrdulos": "56",
+        "CxM Sierras de Espiel Puesto": "16",
+        "Tiempo CxM Sierras de Espiel": "02:32:30",
+        "Puntos CxM Sierras de Espiel": "55"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "14",
+        "Puntos Copa": "282",
         "Nombre": "Rafael",
         "Apellidos": "González Castillejo ",
         "Club": "C.D Los Agujetas De Villafranca",
@@ -2397,11 +2713,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "10",
-        "Tiempo CxM Túrdulos": "1:59:28"
+        "Tiempo CxM Túrdulos": "1:59:28",
+        "Puntos CxM Túrdulos": "58",
+        "CxM Sierras de Espiel Puesto": "15",
+        "Tiempo CxM Sierras de Espiel": "02:30:26",
+        "Puntos CxM Sierras de Espiel": "58"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "15",
+        "Puntos Copa": "266",
         "Nombre": "Antonio David",
         "Apellidos": "León Martínez ",
         "Club": "C.D Los Agujetas De Villafranca ",
@@ -2427,11 +2747,15 @@
         "Tiempo CxM Epora Trail": "2:07:26",
         "Puntos CxM Epora Trail": "54",
         "CxM Túrdulos Puesto": "14",
-        "Tiempo CxM Túrdulos": "2:10:12"
+        "Tiempo CxM Túrdulos": "2:10:12",
+        "Puntos CxM Túrdulos": "50",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "16",
+        "Puntos Copa": "233",
         "Nombre": "David",
         "Apellidos": "Dorado Molinero",
         "Club": "Club Maratón Lucena",
@@ -2457,11 +2781,15 @@
         "Tiempo CxM Epora Trail": "2:12:10",
         "Puntos CxM Epora Trail": "48",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "21",
+        "Tiempo CxM Sierras de Espiel": "02:47:17",
+        "Puntos CxM Sierras de Espiel": "43"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "17",
+        "Puntos Copa": "230",
         "Nombre": "José ",
         "Apellidos": "Bermúdez Fernández ",
         "Club": "Agujetas De Villafranca ",
@@ -2487,11 +2815,15 @@
         "Tiempo CxM Epora Trail": "2:13:05",
         "Puntos CxM Epora Trail": "40",
         "CxM Túrdulos Puesto": "16",
-        "Tiempo CxM Túrdulos": "2:10:34"
+        "Tiempo CxM Túrdulos": "2:10:34",
+        "Puntos CxM Túrdulos": "46",
+        "CxM Sierras de Espiel Puesto": "19",
+        "Tiempo CxM Sierras de Espiel": "02:39:41",
+        "Puntos CxM Sierras de Espiel": "48"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "18",
+        "Puntos Copa": "212",
         "Nombre": "Francisco Javier",
         "Apellidos": "Ordóñez Márquez",
         "Club": "Omeyas Trail",
@@ -2517,11 +2849,15 @@
         "Tiempo CxM Epora Trail": "2:15:10",
         "Puntos CxM Epora Trail": "36",
         "CxM Túrdulos Puesto": "15",
-        "Tiempo CxM Túrdulos": "2:10:24"
+        "Tiempo CxM Túrdulos": "2:10:24",
+        "Puntos CxM Túrdulos": "48",
+        "CxM Sierras de Espiel Puesto": "24",
+        "Tiempo CxM Sierras de Espiel": "02:49:29",
+        "Puntos CxM Sierras de Espiel": "36"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "19",
+        "Puntos Copa": "192",
         "Nombre": "Sergio",
         "Apellidos": "Pedraza Gutiérrez ",
         "Club": "Club De Atletismo Villanueva De Córdoba",
@@ -2547,11 +2883,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "13",
-        "Tiempo CxM Túrdulos": "2:10:04"
+        "Tiempo CxM Túrdulos": "2:10:04",
+        "Puntos CxM Túrdulos": "52",
+        "CxM Sierras de Espiel Puesto": "25",
+        "Tiempo CxM Sierras de Espiel": "02:51:37",
+        "Puntos CxM Sierras de Espiel": "34"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "20",
+        "Puntos Copa": "150",
         "Nombre": "Juan Manuel",
         "Apellidos": "Aguilar León",
         "Club": "Kudo Energy",
@@ -2577,11 +2917,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "18",
-        "Tiempo CxM Túrdulos": "2:21:41"
+        "Tiempo CxM Túrdulos": "2:21:41",
+        "Puntos CxM Túrdulos": "42",
+        "CxM Sierras de Espiel Puesto": "22",
+        "Tiempo CxM Sierras de Espiel": "02:48:03",
+        "Puntos CxM Sierras de Espiel": "41"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "21",
+        "Puntos Copa": "140",
         "Nombre": "Juan Antonio",
         "Apellidos": "Moreno Gallego",
         "Club": "Kabras Lokas Trail Córdoba ",
@@ -2607,11 +2951,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "20",
+        "Tiempo CxM Sierras de Espiel": "02:45:42",
+        "Puntos CxM Sierras de Espiel": "46"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "22",
+        "Puntos Copa": "126",
         "Nombre": "Antonio Javier ",
         "Apellidos": "González Serrano ",
         "Club": "Atletismo Fernán Núñez ",
@@ -2637,11 +2985,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "23",
+        "Puntos Copa": "120",
         "Nombre": "Rafael ",
         "Apellidos": "Rodríguez Criado ",
         "Club": "Lynx Trail",
@@ -2667,11 +3019,15 @@
         "Tiempo CxM Epora Trail": "2:27:06",
         "Puntos CxM Epora Trail": "26",
         "CxM Túrdulos Puesto": "23",
-        "Tiempo CxM Túrdulos": "2:31:36"
+        "Tiempo CxM Túrdulos": "2:31:36",
+        "Puntos CxM Túrdulos": "32",
+        "CxM Sierras de Espiel Puesto": "29",
+        "Tiempo CxM Sierras de Espiel": "03:03:24",
+        "Puntos CxM Sierras de Espiel": "24"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "24",
+        "Puntos Copa": "111",
         "Nombre": "Pedro",
         "Apellidos": "Ruiz Ruiz",
         "Club": "Kabras Lokas Trail Kordoba",
@@ -2697,11 +3053,15 @@
         "Tiempo CxM Epora Trail": "2:31:33",
         "Puntos CxM Epora Trail": "18",
         "CxM Túrdulos Puesto": "20",
-        "Tiempo CxM Túrdulos": "2:29:11"
+        "Tiempo CxM Túrdulos": "2:29:11",
+        "Puntos CxM Túrdulos": "38",
+        "CxM Sierras de Espiel Puesto": "31",
+        "Tiempo CxM Sierras de Espiel": "03:17:38",
+        "Puntos CxM Sierras de Espiel": "19"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "25",
+        "Puntos Copa": "70",
         "Nombre": "Juan José",
         "Apellidos": "Carvajal Pérez",
         "Club": "C. D. Cabra Running",
@@ -2727,11 +3087,15 @@
         "Tiempo CxM Epora Trail": "2:29:14",
         "Puntos CxM Epora Trail": "22",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "30",
+        "Tiempo CxM Sierras de Espiel": "03:07:03",
+        "Puntos CxM Sierras de Espiel": "22"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "26",
+        "Puntos Copa": "40",
         "Nombre": "José Antonio",
         "Apellidos": "Escribano Espinar",
         "Club": "Kabras Lokas Trail",
@@ -2757,11 +3121,15 @@
         "Tiempo CxM Epora Trail": "2:51:03",
         "Puntos CxM Epora Trail": "2",
         "CxM Túrdulos Puesto": "24",
-        "Tiempo CxM Túrdulos": "2:36:03"
+        "Tiempo CxM Túrdulos": "2:36:03",
+        "Puntos CxM Túrdulos": "30",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "27",
+        "Puntos Copa": "29",
         "Nombre": "Antonio José ",
         "Apellidos": "Castillejo Carmona",
         "Club": "Cd Amigos Del Coche Escoba",
@@ -2787,11 +3155,15 @@
         "Tiempo CxM Epora Trail": "3:00:02",
         "Puntos CxM Epora Trail": "1",
         "CxM Túrdulos Puesto": "28",
-        "Tiempo CxM Túrdulos": "2:55:26"
+        "Tiempo CxM Túrdulos": "2:55:26",
+        "Puntos CxM Túrdulos": "22",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "28",
+        "Puntos Copa": "29",
         "Nombre": "José Javier",
         "Apellidos": "Gómez González",
         "Club": "Kabras Lokas",
@@ -2817,11 +3189,15 @@
         "Tiempo CxM Epora Trail": "2:44:25",
         "Puntos CxM Epora Trail": "2",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "32",
+        "Tiempo CxM Sierras de Espiel": "03:19:12",
+        "Puntos CxM Sierras de Espiel": "17"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "29",
+        "Puntos Copa": "27",
         "Nombre": "José Ramon ",
         "Apellidos": "Granados Vázquez",
         "Club": "Kabras Lokas Trail ",
@@ -2847,11 +3223,15 @@
         "Tiempo CxM Epora Trail": "2:56:59",
         "Puntos CxM Epora Trail": "2",
         "CxM Túrdulos Puesto": "29",
-        "Tiempo CxM Túrdulos": "2:55:27"
+        "Tiempo CxM Túrdulos": "2:55:27",
+        "Puntos CxM Túrdulos": "20",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "30",
+        "Puntos Copa": "25",
         "Nombre": "Domi",
         "Apellidos": "Molina Bonilla ",
         "Club": "Subbética Outdoor",
@@ -2877,11 +3257,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "30",
-        "Tiempo CxM Túrdulos": "2:59:31"
+        "Tiempo CxM Túrdulos": "2:59:31",
+        "Puntos CxM Túrdulos": "18",
+        "CxM Sierras de Espiel Puesto": "48",
+        "Tiempo CxM Sierras de Espiel": "04:24:56",
+        "Puntos CxM Sierras de Espiel": "2"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "31",
+        "Puntos Copa": "22",
         "Nombre": "Juan",
         "Apellidos": "Cobacho Gómez",
         "Club": "Montecobre Trail",
@@ -2907,11 +3291,15 @@
         "Tiempo CxM Epora Trail": "",
         "Puntos CxM Epora Trail": "",
         "CxM Túrdulos Puesto": "32",
-        "Tiempo CxM Túrdulos": "3:23:52"
+        "Tiempo CxM Túrdulos": "3:23:52",
+        "Puntos CxM Túrdulos": "14",
+        "CxM Sierras de Espiel Puesto": "46",
+        "Tiempo CxM Sierras de Espiel": "04:21:35",
+        "Puntos CxM Sierras de Espiel": "2"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "32",
+        "Puntos Copa": "22",
         "Nombre": "Alberto ",
         "Apellidos": "Fernández Rivera",
         "Club": "Amigos Del Coche Escoba",
@@ -2937,11 +3325,15 @@
         "Tiempo CxM Epora Trail": "2:56:59",
         "Puntos CxM Epora Trail": "2",
         "CxM Túrdulos Puesto": "33",
-        "Tiempo CxM Túrdulos": "3:26:02"
+        "Tiempo CxM Túrdulos": "3:26:02",
+        "Puntos CxM Túrdulos": "12",
+        "CxM Sierras de Espiel Puesto": "42",
+        "Tiempo CxM Sierras de Espiel": "03:56:04",
+        "Puntos CxM Sierras de Espiel": "2"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "33",
+        "Puntos Copa": "22",
         "Nombre": "Tomas",
         "Apellidos": "Hidalgo Martínez",
         "Club": "Club Atletismo Montemayor",
@@ -2967,11 +3359,15 @@
         "Tiempo CxM Epora Trail": "3:20:44",
         "Puntos CxM Epora Trail": "1",
         "CxM Túrdulos Puesto": "31",
-        "Tiempo CxM Túrdulos": "3:08:45"
+        "Tiempo CxM Túrdulos": "3:08:45",
+        "Puntos CxM Túrdulos": "16",
+        "CxM Sierras de Espiel Puesto": "45",
+        "Tiempo CxM Sierras de Espiel": "04:15:48",
+        "Puntos CxM Sierras de Espiel": "2"
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "34",
+        "Puntos Copa": "11",
         "Nombre": "Ángel ",
         "Apellidos": "Ruiz Moreno ",
         "Club": "Omeyas Trail ",
@@ -2997,11 +3393,15 @@
         "Tiempo CxM Epora Trail": "2:42:29",
         "Puntos CxM Epora Trail": "2",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "35",
+        "Puntos Copa": "10",
         "Nombre": "José Luis ",
         "Apellidos": "Gómez Cañete ",
         "Club": "C.D. Abuchite Extreme",
@@ -3027,11 +3427,15 @@
         "Tiempo CxM Epora Trail": "2:51:39",
         "Puntos CxM Epora Trail": "2",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     },
     {
-        "Categoria": "Absoluto Masculino",
         "Puesto": "36",
+        "Puntos Copa": "8",
         "Nombre": "Antonio Manuel ",
         "Apellidos": "Castro Espino ",
         "Club": "Cd Amigos Del Coche Escoba ",
@@ -3057,6 +3461,10 @@
         "Tiempo CxM Epora Trail": "2:48:50",
         "Puntos CxM Epora Trail": "2",
         "CxM Túrdulos Puesto": "",
-        "Tiempo CxM Túrdulos": ""
+        "Tiempo CxM Túrdulos": "",
+        "Puntos CxM Túrdulos": "",
+        "CxM Sierras de Espiel Puesto": "",
+        "Tiempo CxM Sierras de Espiel": "",
+        "Puntos CxM Sierras de Espiel": ""
     }
 ]
