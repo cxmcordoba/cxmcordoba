@@ -20,6 +20,10 @@
 @import 'css/audioplayer.css';
 @import 'css/one-music-icon.css';
 
+.light-background-2025 {
+    background-color: #f6efe3 !important;
+}
+
 /* :: 3.0 Base CSS */
 
 * {
@@ -821,24 +825,29 @@ img {
     position: relative;
     z-index: 1;
     @include trans-duration(500ms);
+
     img {
         width: 100%;
     }
+
     .event-text {
         text-align: center;
         position: relative;
         z-index: 1;
         padding: 30px 15px;
-        background-color: #000;
+        background-color: #C10A27;
         @include trans-duration(500ms);
+
         h4 {
             color: #fff;
             text-transform: uppercase;
             @include trans-duration(500ms);
         }
+
         .event-meta-data {
             position: relative;
             margin-bottom: 30px;
+
             a {
                 @include trans-duration(500ms);
                 position: relative;
@@ -848,6 +857,7 @@ img {
                 font-weight: 400;
                 display: inline-block;
                 padding-right: 29px;
+
                 &:first-child::after {
                     position: absolute;
                     content: '|';
@@ -855,11 +865,13 @@ img {
                     right: 12px;
                     z-index: 1;
                 }
+
                 &:last-child {
                     padding-right: 0;
                 }
             }
         }
+
         .see-more-btn {
             font-size: 11px;
             color: #fff;
@@ -869,21 +881,26 @@ img {
             padding-left: 0;
             padding-right: 0;
             border-radius: 0;
+
             &:hover,
             &:focus {
                 font-weight: 400;
             }
         }
     }
+
     &:hover,
     &:focus {
         box-shadow: 0 5px 80px 0 rgba(0, 0, 0, 0.2);
+
         .event-text {
             background-color: #f5f9fa;
+
             h4,
             .event-meta-data a {
                 color: $dark-color;
             }
+
             .see-more-btn {
                 border-bottom-color: $dark-color;
                 color: $dark-color;

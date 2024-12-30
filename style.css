@@ -11,6 +11,18 @@
 @import url(css/audioplayer.css);
 @import url(css/one-music-icon.css);
 /* :: 3.0 Base CSS */
+.light-background-2025 {
+    background-color: #f6efe3 !important;
+}
+
+.red-background-2025 {
+    background-color: #C10A27 !important;
+}
+
+.red-color-2025 {
+    color: #C10A27 !important;
+}
+
 * {
   margin: 0;
   padding: 0; }
@@ -686,14 +698,15 @@ img {
   transition-duration: 500ms; }
   .single-event-area img {
     width: 100%; }
-  .single-event-area .event-text {
-    text-align: center;
-    position: relative;
-    z-index: 1;
-    padding: 30px 15px;
-    background-color: #000;
-    -webkit-transition-duration: 500ms;
-    transition-duration: 500ms; }
+    .single-event-area .event-text {
+        text-align: center;
+        position: relative;
+        z-index: 1;
+        padding: 30px 15px;
+        background-color: #000;
+        -webkit-transition-duration: 500ms;
+        transition-duration: 500ms;
+    }
     .single-event-area .event-text h4 {
       color: #fff;
       text-transform: uppercase;
