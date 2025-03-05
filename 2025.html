@@ -150,7 +150,7 @@
 
     <section class="events-area light-background-2025 section-padding-100">
         <div class="container">
-            <div class="row section-padding-0-100" id="copa">
+            <div class="row" id="copa">
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail">
@@ -337,6 +337,7 @@
                 </div>
                 <!-- END -->
             </div>
+            <div id="table-container-2"></div>
         </div>
     </section>
 
@@ -985,6 +986,7 @@
     <script>
 
         const localJSON = '2025/copa-clasificacion.json';
+        const localJSON2 = '2025/mini-copa-clasificacion.json';
         
         const sampleTable = new ModernTable(
           'table-container', // tableContainerID
@@ -1024,6 +1026,46 @@
               }
             }
           });
+
+        const sampleTable2 = new ModernTable(
+            'table-container-2', // tableContainerID
+            'sample-table-2', // tableID
+            localJSON2, // dataURL
+            {
+                tableClasses: 'table table-bordered table-striped table-hover table-sticky table-sm',
+                tableCaption: 'Clasificación final Mini Copa CxM Córdoba 2025',
+                searchClasses: 'form-control',
+                colConfig: {
+                    'rpt_date': {
+                        'format': 'date-us',
+                        'dateFrom': 'YYYY-MM-DD',
+                        'dateTo': 'MM/DD/YY',
+                        'colTitle': 'Report Date'
+                    },
+                    'new_customers': {
+                        'format': 'number-grouped',
+                        'alignment': 'right'
+                    },
+                    'revenue': {
+                        'format': 'currency-us',
+                        'alignment': 'right'
+                    },
+                    'cogs': {
+                        'format': 'currency-us',
+                        'alignment': 'right'
+                    },
+                    'profit': {
+                        'format': 'currency-us',
+                        'alignment': 'right'
+                    },
+                    'profit_margin': {
+                        'format': 'percent',
+                        'numDecimals': 1,
+                        'alignment': 'right'
+                    }
+                }
+            }
+        );  
     </script>
 
 </body>
