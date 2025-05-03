@@ -68,7 +68,7 @@
                                                 <ul class="dropdown">
                                                     <li><a href="/2025#copa">Carreras Copa</a></li>
                                                     <li><a href="/2025#copa-agujetas-villafranca">Villafranca</a></li>
-                                                    
+
                                                     <li><a href="/2025#copa-villahata">Villaharta</a></li>
                                                     <li><a href="/2025#copa-sierras-baena">Baena</a></li>
                                                     <li><a href="/2025#copa-castillo-carcabuey">Carcabuey</a></li>
@@ -125,7 +125,7 @@
                                     <li>
                                         <a>Selección Córdoba CxM</a>
                                         <ul class="dropdown">
-                                            <li><a href="seleccion-cxm-cordoba#2023">2024</a></li>
+                                            <li><a href="seleccion-cxm-cordoba#2024">2024</a></li>
                                             <li><a href="seleccion-cxm-cordoba#2023">2023</a></li>
                                             <li><a href="seleccion-cxm-cordoba#2022">2022</a></li>
                                             <li><a href="seleccion-cxm-cordoba#2021">2021</a></li>
@@ -297,6 +297,81 @@
         </div>
     </section>
     <!-- ##### Events Area End ##### -->
+    <!-- 2024 -->
+    <section class="events-area section-padding-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-6">
+                    <div class="single-event-area mb-30">
+                        <div class="event-thumbnail" id="2024">
+                            <a href="2024/SeleccionFemeninaCxMCordoba2024.jpg" target="_blank"><img src="2024/SeleccionFemeninaCxMCordoba2024.jpg" alt=""></a>
+                        </div>
+                        <div class="event-text">
+                            <h4>Selección CxM Córdoba 2024</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6">
+                    <div class="weeks-top-area mb-100">
+                        <div class="section-heading text-left mb-50 wow fadeInUp" data-wow-delay="50ms">
+                            <p>SELECCIÓN CORDOBESA CxM 2024</p>
+                            <h2>FEMENINA</h2>
+                        </div>
+                        <div class="single-top-item d-flex wow fadeInUp">
+                            <div class="thumbnail">
+                                <img src="img/bg-img/plata.jpg" alt="">
+                            </div>
+                            <div class="content-">
+                                <h6>JOHANNA BURLING JOHNSON</h6>
+                                <h6>SARA MARÍA GALISTEO PÉREZ</h6>
+                                <h6>MARÍA TRIGUERO ROJANO</h6>
+                                <h6>BEATRIZ MONTES BENÍTEZ</h6>
+                                <h6>PILAR MONTES BENÍTEZ</h6>
+                                <h6>SUSANA MONTES BENÍTEZ</h6>
+                                <h6>ANA BELÉN HERREROS ALGUACIL</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-6">
+                    <div class="single-event-area mb-30">
+                        <div class="event-thumbnail">
+                            <a href="2024/SeleccionMasculinaCxMCordoba2024.jpg" target="_blank"><img src="2024/SeleccionMasculinaCxMCordoba2024.jpg" alt=""></a>
+                        </div>
+                        <div class="event-text">
+                            <h4>Selección CxM Córdoba 2024</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6">
+                    <div class="weeks-top-area mb-100">
+                        <div class="section-heading text-left mb-50 wow fadeInUp" data-wow-delay="50ms">
+                            <p>SELECCIÓN CORDOBESA CxM 2024</p>
+                            <h2>MASCULINA</h2>
+                        </div>
+                        <div class="single-top-item d-flex wow fadeInUp">
+                            <div class="thumbnail">
+                                <img src="img/bg-img/plata.jpg" alt="">
+                            </div>
+                            <div class="content-">
+                                <h6>JOSE MARÍA GARRIDO REYES</h6>
+                                <h6>JOSÉ MANUEL CHACÓN GÁLVEZ</h6>
+                                <h6>DANIEL LUQUE GONZÁLEZ</h6>
+                                <h6>VICENTE MENGÍBAR PÁRRAGA</h6>
+                                <h6>ANTONIO ROSA TRUJILLO</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4" id="">
+                <div class="load-more-btn text-center mt-70">
+                    <a href="2024/ClasificacionesSelecciones2024.pdf" target="_blank" class="btn oneMusic-btn">RESULTADOS SELECCIONES 24 <i class="fa fa-angle-double-right"></i></a>
+                </div>
+            </div>
+</section>
+
+
     <!-- ##### Events Area Start ##### -->
     <section class="events-area section">
         <div class="container">
@@ -787,46 +862,46 @@
     <script src="js/modern-table.js"></script>
     <script>
 
-const localJSON = 'copa-clasificacion.json';
+        const localJSON = 'copa-clasificacion.json';
 
-const sampleTable = new ModernTable(
-  'table-container', // tableContainerID
-  'sample-table', // tableID
-  localJSON, // dataURL
-  {
-    tableClasses: 'table table-bordered table-striped table-hover table-sticky table-sm',
-    tableCaption: 'Clasificación final Copa CxM Córdoba 2024',
-    searchClasses: 'form-control',
-    colConfig: {
-      'rpt_date': {
-        'format': 'date-us',
-        'dateFrom': 'YYYY-MM-DD',
-        'dateTo': 'MM/DD/YY',
-        'colTitle': 'Report Date'
-      },
-      'new_customers': {
-        'format': 'number-grouped',
-        'alignment': 'right'
-      },
-      'revenue': {
-        'format': 'currency-us',
-        'alignment': 'right'
-      },
-      'cogs': {
-        'format': 'currency-us',
-        'alignment': 'right'
-      },
-      'profit': {
-        'format': 'currency-us',
-        'alignment': 'right'
-      },
-      'profit_margin': {
-        'format': 'percent',
-        'numDecimals': 1,
-        'alignment': 'right'
-      }
-    }
-  });
+        const sampleTable = new ModernTable(
+            'table-container', // tableContainerID
+            'sample-table', // tableID
+            localJSON, // dataURL
+            {
+                tableClasses: 'table table-bordered table-striped table-hover table-sticky table-sm',
+                tableCaption: 'Clasificación final Copa CxM Córdoba 2024',
+                searchClasses: 'form-control',
+                colConfig: {
+                    'rpt_date': {
+                        'format': 'date-us',
+                        'dateFrom': 'YYYY-MM-DD',
+                        'dateTo': 'MM/DD/YY',
+                        'colTitle': 'Report Date'
+                    },
+                    'new_customers': {
+                        'format': 'number-grouped',
+                        'alignment': 'right'
+                    },
+                    'revenue': {
+                        'format': 'currency-us',
+                        'alignment': 'right'
+                    },
+                    'cogs': {
+                        'format': 'currency-us',
+                        'alignment': 'right'
+                    },
+                    'profit': {
+                        'format': 'currency-us',
+                        'alignment': 'right'
+                    },
+                    'profit_margin': {
+                        'format': 'percent',
+                        'numDecimals': 1,
+                        'alignment': 'right'
+                    }
+                }
+            });
     </script>
 </body>
 
