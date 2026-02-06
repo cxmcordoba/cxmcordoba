@@ -38,113 +38,23 @@
     </div>
 
     <!-- Header -->
-    <header class="header-area">
-        <img class="img-center img-fadmes" src="img/core-img/fadmes-vertical.png" />
-        <div class="oneMusic-main-menu">
-            <div class="classy-nav-container breakpoint-off">
-                <div class="container">
-                    <nav class="classy-navbar justify-content-between" id="oneMusicNav">
-                        <a href="index" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
-                        <div class="classy-navbar-toggler">
-                            <span class="navbarToggler"><span></span><span></span><span></span></span>
-                        </div>
-                        <div class="classy-menu">
-                            <div class="classycloseIcon">
-                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
-                            </div>
-                            <div class="classynav">
-                                <ul>
-                                    <li>
-                                        <a>CxM26</a>
-                                        <ul class="dropdown">
-                                            <li>
-                                                <a>Copa Córdoba</a>
-                                                <ul class="dropdown">
-                                                    <li><a href="/2026#copa">Carreras Copa</a></li>
-                                                    <li><a href="/2026#copa-montes-comunales">Montes Comunales</a></li>
-                                                    <li><a href="/2026#copa-villafranca">Villafranca</a></li>
-                                                    <li><a href="/2026#copa-">Villaharta</a></li>
-                                                    <li><a href="/2026#copa-">Sierras de Baena</a></li>
-                                                    <li><a href="/2026#copa-">Cerros del Hoyo</a></li>
-                                                    <li><a href="/2026#copa-">Villa de Carcabuey</a></li>
-                                                    <li><a href="/2026#copa-">Califa Mountain Festival</a></li>
-                                                    <li><a href="/2026#copa-">Sierra de Aras</a></li>
-                                                    <li><a href="/2026#copa-">Túrdulos</a></li>
-                                                    <li><a href="/2026#copa-">Épora Trail</a></li>
-                                                    <li><a href="/2026#copa-">Tiñosa Trail</a></li>
-                                                    <li><a href="/2026#copa-">Sierras de Espiel</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a>Cto Córdoba</a>
-                                                <ul class="dropdown">
-                                                    <li><a href="/2026#castillo-de-anzur">Castillo de Anzur</a></li>
-                                                </ul>
-                                            </li>
-<!--                                             <li>
-                                                <a>Cto Andalucía</a>
-                                                <ul class="dropdown">
-                                                    <li><a href="/2026#rute">Rute</a></li>
-                                                </ul>
-                                            </li> -->
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a>naturCOR</a>
-                                        <ul class="dropdown">
-                                            <li><a href="naturcor25">NaturCOR25</a></li>
-                                            <li><a href="naturcor24">NaturCOR24</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a>Escalada</a>
-                                        <ul class="dropdown">
-                                            <li><a href="escalada25">Escalada25</a></li>
-                                            <li><a href="escalada24">Escalada24</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a>CxM Otras Ediciones</a>
-                                        <ul class="dropdown">
-                                            <li><a href="2025">2025</a></li>
-                                            <li><a href="2024">2024</a></li>
-                                            <li><a href="2023">2023</a></li>
-                                            <li><a href="2022">2022</a></li>
-                                            <li><a href="2021">2021</a></li>
-                                            <li><a href="2020">2020</a></li>
-                                            <li><a href="2019">2019</a></li>
-                                            <li><a href="2018">2018</a></li>
-                                            <li><a href="2017">2017</a></li>
-                                            <li><a href="docs/PodiumHistoricoCxMCordoba.pdf" target="_blank">CxM Podium Histórico</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a>Selección Córdoba CxM</a>
-                                        <ul class="dropdown">
-                                            <li><a href="seleccion-cxm-cordoba#2024">2024</a></li>
-                                            <li><a href="seleccion-cxm-cordoba#2023">2023</a></li>
-                                            <li><a href="seleccion-cxm-cordoba#2022">2022</a></li>
-                                            <li><a href="seleccion-cxm-cordoba#2021">2021</a></li>
-                                            <li><a href="seleccion-cxm-cordoba#2019">2019</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a>Actividades FADMES Córdoba</a>
-                                        <ul class="dropdown">
-                                        </ul>
-                                    </li>
-                                    <li><a href="noticias">Noticias</a></li>
-                                    <li><a href="https://www.instagram.com/cxmcordoba/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://www.facebook.com/cxmcordoba" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="mailto:cordoba.carreras@fadmes.es" target="_blank"><i class="fa fa-envelope"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </header>
+    <div id="site-header"></div>
+
+    <script>
+    fetch('/partials/header.html')
+        .then(r => r.text())
+        .then(html => {
+        document.getElementById('site-header').innerHTML = html;
+
+        // Reiniciar el menú tras cargar el header
+        setTimeout(function () {
+            if (window.jQuery && jQuery.fn.classyNav) {
+            jQuery('#oneMusicNav').classyNav();
+            }
+        }, 0);
+        })
+        .catch(console.error);
+    </script>
 
     <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/bg-1.jpg);">
         <div class="bradcumbContent light-background-2026 ">
@@ -413,9 +323,9 @@
                                     <a class="event-place">Inscripciones</a>
                                     <a class="event-date"> - </a>
                                 </div>
-<!--                                 <a href="2026/clasificaciones-pruebas/clasificaciones_cxm_villafranca_copa.pdf" target="_blank" class="btn oneMusic-btn green-light-bg-color-custom">Clasificaciones Copa</a>
+                                <a href="2026/clasificaciones-pruebas/clasificaciones_cxm_villafranca_copa.pdf" target="_blank" class="btn oneMusic-btn green-light-bg-color-custom">Clasificaciones Copa</a>
                                 <a href="2026/clasificaciones-pruebas/clasificaciones_cxm_villafranca_mini_copa.pdf" target="_blank" class="btn oneMusic-btn green-light-bg-color-custom">Clasificaciones Mini Copa</a>                     
-                                <div class="event-text red-background-2026">
+                                <!-- <div class="event-text red-background-2026">
                                     <a href="https://www.rockthesport.com/es/evento/ix-cxm-trail-los-agujetas-de-villafranca" target="_blank" class="btn oneMusic-btn">Inscripciones</a>
                                     <a href="https://losagujetasdevillafranca.es/" target="_blank" class="btn oneMusic-btn"><i class="fa fa-link"></i> web</a>
                                     <a href="mailto:info@losagujetas.es" class="btn oneMusic-btn" target="_blank"><i class="fa fa-envelope"></i></a>
@@ -433,10 +343,10 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail" id="copa-villafranca-de-cordoba">
-                            <a href="2026/cartel-cxm-villafranca-de-cordoba.jpg" target="_blank"><img src="2026/cartel-cxm-villafranca-de-cordoba.jpg" alt="CxM Villafranca de cordoba"></a>
+                            <a href="2026/cartel-cxm-villafranca-de-cordoba.jpeg" target="_blank"><img src="2026/cartel-cxm-villafranca-de-cordoba.jpeg" alt="CxM Villafranca de cordoba"></a>
                         </div>
                         <div class="event-text red-background-2026">
-                            <h4>CxM Villafranca</h4>
+                            <h4>CxM Villafranca de Córdoba</h4>
                             <div class="event-meta-data">
                                 <a class="event-place">Villafranca de Córdoba</a>
                                 <a class="event-date">22 FEB 2026</a>
@@ -460,6 +370,71 @@
                         </div>
                     </div>
                 </div>
+
+                <!-- FICHA -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-event-area mb-30">
+                        <div class="event-thumbnail" id="copa-villaharta">
+                            <a href="2026/cartel-cxm-villaharta.png" target="_blank"><img src="2026/cartel-cxm-villaharta.png" alt="CxM Villaharta"></a>
+                        </div>
+                        <div class="event-text red-background-2026">
+                            <h4>CxM Villaharta</h4>
+                            <div class="event-meta-data">
+                                <a class="event-place">Villaharta</a>
+                                <a class="event-date">14 MAR 2026</a>
+                            </div>
+                            <div class="event-text red-background-2026">
+                                <div class="event-meta-data">
+                                    <a class="event-place">Inscripciones</a>
+                                    <a class="event-date">-</a>
+                                </div>
+<!--                                 <a href="2026/clasificaciones-pruebas/clasificaciones_cxm_villaharta_copa.pdf" target="_blank" class="btn oneMusic-btn green-light-bg-color-custom">Clasificaciones Copa</a>
+                                <a href="2026/clasificaciones-pruebas/clasificaciones_cxm_villaharta_mini_copa.pdf" target="_blank" class="btn oneMusic-btn green-light-bg-color-custom">Clasificaciones Mini Copa</a>                     
+                                <div class="event-text red-background-2026">
+                                    <a href="https://masatletismo.com/2026/01/16/masatletismo-abre-las-inscripciones-para-la-iv-cxm-villaharta/" target="_blank" class="btn oneMusic-btn">Inscripciones</a>
+                                    <a href="https://www.villaharta.es" target="_blank" class="btn oneMusic-btn"><i class="fa fa-link"></i> web</a>
+                                    <a href="mailto:deporte@villaharta.es" class="btn oneMusic-btn" target="_blank"><i class="fa fa-envelope"></i></a>
+                                    <a href="tel:627530633" class="btn oneMusic-btn"><i class="fa fa-phone"></i></a>
+                                    <a href="https://www.facebook.com/deportesvillaharta" target="_blank" class="btn oneMusic-btn"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://www.youtube.com/@ayuntamientodevillaharta" target="_blank" class="btn oneMusic-btn"><i class="fa fa-youtube"></i></a>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- FICHA -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-event-area mb-30">
+                        <div class="event-thumbnail" id="copa-sierras-de-baena">
+                            <a href="2026/cartel-cxm-sierra-de-baena.jpg" target="_blank"><img src="2026/cartel-cxm-sierra-de-baena.jpg" alt="CxM Sierras de Baena"></a>
+                        </div>
+                        <div class="event-text red-background-2026">
+                            <h4>CxM Sierras de Baena</h4>
+                            <div class="event-meta-data">
+                                <a class="event-place">Sierras de Baena</a>
+                                <a class="event-date">12 ABR 2026</a>
+                            </div>
+                            <div class="event-text red-background-2026">
+                                <div class="event-meta-data">
+                                    <a class="event-place">Inscripciones</a>
+                                    <a class="event-date">-</a>
+                                </div>
+<!--                                 <a href="2026/clasificaciones-pruebas/clasificaciones_cxm_villaharta_copa.pdf" target="_blank" class="btn oneMusic-btn green-light-bg-color-custom">Clasificaciones Copa</a>
+                                <a href="2026/clasificaciones-pruebas/clasificaciones_cxm_villaharta_mini_copa.pdf" target="_blank" class="btn oneMusic-btn green-light-bg-color-custom">Clasificaciones Mini Copa</a>                     
+                                <div class="event-text red-background-2026">
+                                    <a href="https://masatletismo.com/2026/01/16/masatletismo-abre-las-inscripciones-para-la-iv-cxm-villaharta/" target="_blank" class="btn oneMusic-btn">Inscripciones</a>
+                                    <a href="https://www.villaharta.es" target="_blank" class="btn oneMusic-btn"><i class="fa fa-link"></i> web</a>
+                                    <a href="mailto:deporte@villaharta.es" class="btn oneMusic-btn" target="_blank"><i class="fa fa-envelope"></i></a>
+                                    <a href="tel:627530633" class="btn oneMusic-btn"><i class="fa fa-phone"></i></a>
+                                    <a href="https://www.facebook.com/deportesvillaharta" target="_blank" class="btn oneMusic-btn"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://www.youtube.com/@ayuntamientodevillaharta" target="_blank" class="btn oneMusic-btn"><i class="fa fa-youtube"></i></a>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>                 
+
             </div>
         </div>
     </section>
